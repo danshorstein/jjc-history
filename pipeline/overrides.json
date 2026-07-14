@@ -1,0 +1,19 @@
+{
+  "year_overrides": {
+    "00001": {
+      "year": "1938-1939",
+      "note": "UFDC label is generic 'Jacksonville Jewish Center yearbook'. Title page in scanned text reads '1938-39 ENGLISH HEBREW 5699 JACKSONVILLE JEWISH CENTER YEARBOOK'.",
+      "evidence_seq": 15
+    },
+    "00002": {
+      "year": "1926-1927",
+      "note": "UFDC label is generic. Text reads 'YEAR 1926—1927 5687' and the foreword calls it 'this first attempt to produce a Year Book for the Jacksonville Jewish Center' — the first yearbook ever published.",
+      "evidence_seq": 24
+    },
+    "00075": {
+      "year": "2016-2017",
+      "note": "UFDC catalog mislabels this volume '2007-2008' (duplicating vid 00066). Its title page reads 'Jacksonville Jewish Center Yearbook 2016-2017 5777'. Contents (Rabbi Tilman, Galinsky Academy, Crown Point Road) confirm the later date.",
+      "evidence_seq": 1
+    }
+  }
+}

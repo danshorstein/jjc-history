@@ -1,0 +1,6401 @@
+[
+ {
+  "vid": "00002",
+  "year": "1926-1927",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Arthur Ginzler",
+    "count": 2,
+    "pages": [
+     30,
+     46
+    ]
+   },
+   {
+    "name": "Rev. B. Safer",
+    "count": 2,
+    "pages": [
+     31,
+     32
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Max Frank",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Isaac Davis",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   },
+   {
+    "name": "Helen Peltz",
+    "count": 1,
+    "pages": [
+     32
+    ]
+   },
+   {
+    "name": "Dr. J. T. Wilensky",
+    "count": 1,
+    "pages": [
+     33
+    ]
+   },
+   {
+    "name": "Mr. Harry Gendrier",
+    "count": 1,
+    "pages": [
+     33
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00078",
+  "year": "1928",
+  "clergy_candidates": [],
+  "president_candidates": [
+   {
+    "name": "AUXILIARY SOCIETIES\nOFFICERS",
+    "count": 1,
+    "pages": [
+     3
+    ]
+   },
+   {
+    "name": "MRS. HARRY FINKELSTEIN",
+    "count": 1,
+    "pages": [
+     4
+    ]
+   },
+   {
+    "name": "HYEM KRAMER\nVice-",
+    "count": 1,
+    "pages": [
+     4
+    ]
+   },
+   {
+    "name": "HARRY FINKELSTEIN",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00079",
+  "year": "1929-1930",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Harry Cohen",
+    "count": 5,
+    "pages": [
+     3,
+     3,
+     3,
+     3,
+     3
+    ]
+   },
+   {
+    "name": "Cantor Aaron I. Edgar",
+    "count": 2,
+    "pages": [
+     4,
+     4
+    ]
+   },
+   {
+    "name": "Rabbi I. L. Kaplan",
+    "count": 2,
+    "pages": [
+     13,
+     14
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "First Vice-President\nSecond Vice-",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "Mrs. Samuel Bono",
+    "count": 1,
+    "pages": [
+     8
+    ]
+   },
+   {
+    "name": "Second Vice-President\nThird Vice-",
+    "count": 1,
+    "pages": [
+     8
+    ]
+   },
+   {
+    "name": "A. W. RUUS",
+    "count": 1,
+    "pages": [
+     20
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00080",
+  "year": "1934",
+  "clergy_candidates": [],
+  "president_candidates": [
+   {
+    "name": "Mrs. F. Solforenko",
+    "count": 1,
+    "pages": [
+     40
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00081",
+  "year": "1935-1936",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Morris D. Margolis",
+    "count": 4,
+    "pages": [
+     5,
+     17,
+     29,
+     46
+    ]
+   },
+   {
+    "name": "Rev. G. Finn",
+    "count": 2,
+    "pages": [
+     28,
+     45
+    ]
+   },
+   {
+    "name": "Rabbi M. D. Margolis",
+    "count": 2,
+    "pages": [
+     45,
+     46
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Max Rubiiip",
+    "count": 1,
+    "pages": [
+     3
+    ]
+   },
+   {
+    "name": "Mrs. A. Sager Past",
+    "count": 1,
+    "pages": [
+     20
+    ]
+   },
+   {
+    "name": "Mrs. J. Hackel",
+    "count": 1,
+    "pages": [
+     20
+    ]
+   },
+   {
+    "name": "Morris Leibovitz Vice-",
+    "count": 1,
+    "pages": [
+     24
+    ]
+   },
+   {
+    "name": "A. Nabin Vice-",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Mrs. F. Soforenko",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00003",
+  "year": "1936-1937",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi M. D. Margolis",
+    "count": 4,
+    "pages": [
+     12,
+     28,
+     28,
+     37
+    ]
+   },
+   {
+    "name": "Rabbi Morris D. Margolis",
+    "count": 2,
+    "pages": [
+     22,
+     46
+    ]
+   },
+   {
+    "name": "Rev. G. Finn",
+    "count": 2,
+    "pages": [
+     48,
+     48
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Eunice Davis Vice",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   },
+   {
+    "name": "Me Euen",
+    "count": 1,
+    "pages": [
+     16
+    ]
+   },
+   {
+    "name": "MRS. JOSEPH HACKEE",
+    "count": 1,
+    "pages": [
+     19
+    ]
+   },
+   {
+    "name": "Harry Sachs Vice-",
+    "count": 1,
+    "pages": [
+     20
+    ]
+   },
+   {
+    "name": "MAX RUBIN",
+    "count": 1,
+    "pages": [
+     26
+    ]
+   },
+   {
+    "name": "Max Moss Vice",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00082",
+  "year": "1937-1938",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Morris D. Margolis",
+    "count": 2,
+    "pages": [
+     11,
+     32
+    ]
+   },
+   {
+    "name": "Rev. G. Finn",
+    "count": 2,
+    "pages": [
+     11,
+     32
+    ]
+   },
+   {
+    "name": "Rev. J. Robin",
+    "count": 2,
+    "pages": [
+     11,
+     14
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Mrs. Joseph Hackel",
+    "count": 2,
+    "pages": [
+     21,
+     22
+    ]
+   },
+   {
+    "name": "First Vice-",
+    "count": 2,
+    "pages": [
+     35,
+     47
+    ]
+   },
+   {
+    "name": "Mrs. A. Sager Past",
+    "count": 1,
+    "pages": [
+     22
+    ]
+   },
+   {
+    "name": "Thelma Segal Vice-",
+    "count": 1,
+    "pages": [
+     31
+    ]
+   },
+   {
+    "name": "Recording Secretary\nTreasurer",
+    "count": 1,
+    "pages": [
+     32
+    ]
+   },
+   {
+    "name": "Elmer Setzer Vice-",
+    "count": 1,
+    "pages": [
+     34
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00001",
+  "year": "1938-1939",
+  "clergy_candidates": [
+   {
+    "name": "Rev. G. Finn",
+    "count": 4,
+    "pages": [
+     11,
+     25,
+     95,
+     95
+    ]
+   },
+   {
+    "name": "Rev. J. Robin",
+    "count": 2,
+    "pages": [
+     11,
+     95
+    ]
+   },
+   {
+    "name": "Rev. B. Safer",
+    "count": 2,
+    "pages": [
+     11,
+     95
+    ]
+   },
+   {
+    "name": "Rabbi Samuel Benjamin",
+    "count": 2,
+    "pages": [
+     17,
+     95
+    ]
+   },
+   {
+    "name": "Rabbi M. D. Margolis",
+    "count": 2,
+    "pages": [
+     20,
+     95
+    ]
+   },
+   {
+    "name": "Rev. J. Robir\nC'Izntz",
+    "count": 2,
+    "pages": [
+     20,
+     95
+    ]
+   },
+   {
+    "name": "Rev. Joseph Robin\nRabbi Morris",
+    "count": 2,
+    "pages": [
+     21,
+     95
+    ]
+   },
+   {
+    "name": "Rabbi Morris\nD. Margoiis",
+    "count": 2,
+    "pages": [
+     22,
+     95
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "MRS. BEN CHEPENIK",
+    "count": 2,
+    "pages": [
+     26,
+     95
+    ]
+   },
+   {
+    "name": "Nat Shorstein\nVice-",
+    "count": 2,
+    "pages": [
+     30,
+     95
+    ]
+   },
+   {
+    "name": "Fresident\nAnnette Hammerman Vice-",
+    "count": 2,
+    "pages": [
+     34,
+     95
+    ]
+   },
+   {
+    "name": "OFFICERS\nDavid Davis",
+    "count": 2,
+    "pages": [
+     35,
+     95
+    ]
+   },
+   {
+    "name": "OFFICERS\nEdith Weiss",
+    "count": 2,
+    "pages": [
+     36,
+     95
+    ]
+   },
+   {
+    "name": "May Goldie Setzer Vice-",
+    "count": 2,
+    "pages": [
+     36,
+     95
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00004",
+  "year": "1939-1940",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Morris D. Margolis",
+    "count": 2,
+    "pages": [
+     15,
+     22
+    ]
+   },
+   {
+    "name": "Rev. G. Finn",
+    "count": 2,
+    "pages": [
+     15,
+     22
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "High Holiday Program",
+    "count": 1,
+    "pages": [
+     5
+    ]
+   },
+   {
+    "name": "HARRY FINKELSTEIN\nHonorary",
+    "count": 1,
+    "pages": [
+     11
+    ]
+   },
+   {
+    "name": "MUMf\nMAX RUBIN\nHonorary",
+    "count": 1,
+    "pages": [
+     13
+    ]
+   },
+   {
+    "name": "OFFICERS\nABBA SAFER",
+    "count": 1,
+    "pages": [
+     27
+    ]
+   },
+   {
+    "name": "GERTRUDE MEYERKOFF... VICE",
+    "count": 1,
+    "pages": [
+     30
+    ]
+   },
+   {
+    "name": "MRS. M. D. MARGOLIS",
+    "count": 1,
+    "pages": [
+     34
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00005",
+  "year": "1941-1942",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi M. D. Margolis",
+    "count": 5,
+    "pages": [
+     3,
+     3,
+     19,
+     39,
+     74
+    ]
+   },
+   {
+    "name": "Rabbi Aryeh Lev",
+    "count": 2,
+    "pages": [
+     5,
+     80
+    ]
+   },
+   {
+    "name": "Rev. B. Safer",
+    "count": 2,
+    "pages": [
+     5,
+     78
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Vi\nBy ABE NEWMAN",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "Country\nDAVID H. LASAROW",
+    "count": 1,
+    "pages": [
+     4
+    ]
+   },
+   {
+    "name": "David Lasarow",
+    "count": 1,
+    "pages": [
+     4
+    ]
+   },
+   {
+    "name": "FIRST VICE",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   },
+   {
+    "name": "SECOND VICE",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   },
+   {
+    "name": "MRS. RUDY MOSS",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00006",
+  "year": "1942",
+  "clergy_candidates": [],
+  "president_candidates": [
+   {
+    "name": "Raela Fink",
+    "count": 1,
+    "pages": [
+     3
+    ]
+   },
+   {
+    "name": "Mrs. Joseph Strauss",
+    "count": 1,
+    "pages": [
+     16
+    ]
+   },
+   {
+    "name": "Officers\nPresident\nVice",
+    "count": 1,
+    "pages": [
+     22
+    ]
+   },
+   {
+    "name": "Dave Davis",
+    "count": 1,
+    "pages": [
+     24
+    ]
+   },
+   {
+    "name": "Mrs. ISADORE GARTNER",
+    "count": 1,
+    "pages": [
+     61
+    ]
+   },
+   {
+    "name": "Blood Bank.\nOfficers",
+    "count": 1,
+    "pages": [
+     61
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00007",
+  "year": "1943-1944",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi I. L. Kaplan",
+    "count": 3,
+    "pages": [
+     38,
+     128,
+     163
+    ]
+   },
+   {
+    "name": "Rabbi M. D. Margolis",
+    "count": 2,
+    "pages": [
+     18,
+     163
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Mrs. Maurice Cherry\nVice",
+    "count": 1,
+    "pages": [
+     11
+    ]
+   },
+   {
+    "name": "Mrs. Harry Katz\nVice",
+    "count": 1,
+    "pages": [
+     11
+    ]
+   },
+   {
+    "name": "SS.\nOfficers",
+    "count": 1,
+    "pages": [
+     12
+    ]
+   },
+   {
+    "name": "Jr.\nFirst Vice",
+    "count": 1,
+    "pages": [
+     12
+    ]
+   },
+   {
+    "name": "H. K.\nOfficers",
+    "count": 1,
+    "pages": [
+     16
+    ]
+   },
+   {
+    "name": "William Silverman\nFirst Vice",
+    "count": 1,
+    "pages": [
+     16
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00083",
+  "year": "1943",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi M. D. Margolis",
+    "count": 3,
+    "pages": [
+     33,
+     60,
+     88
+    ]
+   },
+   {
+    "name": "Rev. Joseph Robin",
+    "count": 2,
+    "pages": [
+     57,
+     60
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Guy Marvin",
+    "count": 1,
+    "pages": [
+     39
+    ]
+   },
+   {
+    "name": "Florida\nWm. Rose",
+    "count": 1,
+    "pages": [
+     42
+    ]
+   },
+   {
+    "name": "President\nVice",
+    "count": 1,
+    "pages": [
+     46
+    ]
+   },
+   {
+    "name": "OFFICERS\nPresident\nVice",
+    "count": 1,
+    "pages": [
+     47
+    ]
+   },
+   {
+    "name": "HiiiiiiiiiiiiuiiiiiiiiiiiicaiiiiiiiimiEaiiiiHiiiiiiniiiiiii\nPage Forty-eight\nOFFICERS",
+    "count": 1,
+    "pages": [
+     48
+    ]
+   },
+   {
+    "name": "MRS. MAURICE CHERRY",
+    "count": 1,
+    "pages": [
+     63
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00008",
+  "year": "1945-1946",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David H. Panitz",
+    "count": 6,
+    "pages": [
+     12,
+     20,
+     45,
+     161,
+     173,
+     181
+    ]
+   },
+   {
+    "name": "Rev. J. Robin",
+    "count": 5,
+    "pages": [
+     3,
+     17,
+     32,
+     32,
+     45
+    ]
+   },
+   {
+    "name": "Cantor Samuel Vigoda",
+    "count": 3,
+    "pages": [
+     12,
+     45,
+     45
+    ]
+   },
+   {
+    "name": "Rev. B. Safer",
+    "count": 3,
+    "pages": [
+     12,
+     32,
+     32
+    ]
+   },
+   {
+    "name": "Rabbi Maurice Solomon",
+    "count": 2,
+    "pages": [
+     12,
+     45
+    ]
+   },
+   {
+    "name": "Rabbi Uri Miller",
+    "count": 2,
+    "pages": [
+     12,
+     45
+    ]
+   },
+   {
+    "name": "Rabbi Aaron Wise",
+    "count": 2,
+    "pages": [
+     12,
+     45
+    ]
+   },
+   {
+    "name": "Rabbi Benjamin Sincoff",
+    "count": 2,
+    "pages": [
+     12,
+     45
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Ira Stein\nVice",
+    "count": 2,
+    "pages": [
+     54,
+     66
+    ]
+   },
+   {
+    "name": "Second Vice",
+    "count": 2,
+    "pages": [
+     71,
+     76
+    ]
+   },
+   {
+    "name": "Third Vice",
+    "count": 2,
+    "pages": [
+     111,
+     149
+    ]
+   },
+   {
+    "name": "Vice President",
+    "count": 2,
+    "pages": [
+     114,
+     135
+    ]
+   },
+   {
+    "name": "Aid Society",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "Mortimer May",
+    "count": 1,
+    "pages": [
+     12
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00084",
+  "year": "1946-1947",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David H. Panitz",
+    "count": 3,
+    "pages": [
+     2,
+     31,
+     41
+    ]
+   },
+   {
+    "name": "Cantor Harry Bettman",
+    "count": 2,
+    "pages": [
+     2,
+     31
+    ]
+   },
+   {
+    "name": "Rabbi Samuel Geffen",
+    "count": 2,
+    "pages": [
+     41,
+     106
+    ]
+   },
+   {
+    "name": "Rabbi Hyman Cohen",
+    "count": 2,
+    "pages": [
+     41,
+     106
+    ]
+   },
+   {
+    "name": "Rabbi Harry Z.\nZwelling",
+    "count": 2,
+    "pages": [
+     41,
+     41
+    ]
+   },
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 2,
+    "pages": [
+     41,
+     129
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Second Vice",
+    "count": 3,
+    "pages": [
+     52,
+     81,
+     94
+    ]
+   },
+   {
+    "name": "Officers\nPresident..\nVice",
+    "count": 2,
+    "pages": [
+     8,
+     120
+    ]
+   },
+   {
+    "name": "OFFICERS\nPresident\nVice",
+    "count": 2,
+    "pages": [
+     25,
+     34
+    ]
+   },
+   {
+    "name": "OFFICERS\nPresident\nFirst Vice",
+    "count": 2,
+    "pages": [
+     52,
+     81
+    ]
+   },
+   {
+    "name": "Edwin Presser\nVice",
+    "count": 1,
+    "pages": [
+     3
+    ]
+   },
+   {
+    "name": "Dorothy Krantz\nVice",
+    "count": 1,
+    "pages": [
+     3
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00085",
+  "year": "1947-1948",
+  "clergy_candidates": [],
+  "president_candidates": [
+   {
+    "name": "JOSEPH HACKEL",
+    "count": 1,
+    "pages": [
+     14
+    ]
+   },
+   {
+    "name": "Mrs. Jacob Becker",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   },
+   {
+    "name": "MRS. JACK BECHER",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "HERBERT SANDLER\nImmediate Past",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   },
+   {
+    "name": "National Vice-",
+    "count": 1,
+    "pages": [
+     36
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00086",
+  "year": "1948-1949",
+  "clergy_candidates": [
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 3,
+    "pages": [
+     21,
+     41,
+     70
+    ]
+   },
+   {
+    "name": "Rabbi Harry Halpern",
+    "count": 2,
+    "pages": [
+     2,
+     86
+    ]
+   },
+   {
+    "name": "Rabbi Sanders A. Tofield",
+    "count": 2,
+    "pages": [
+     21,
+     46
+    ]
+   },
+   {
+    "name": "Rabbi Tofield.\nMay",
+    "count": 2,
+    "pages": [
+     50,
+     50
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "WILLIAM H. JOHNSTON",
+    "count": 1,
+    "pages": [
+     13
+    ]
+   },
+   {
+    "name": "Dr.\nRoy Julius Sloat",
+    "count": 1,
+    "pages": [
+     65
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00009",
+  "year": "1949-1950",
+  "clergy_candidates": [
+   {
+    "name": "Rev. B. Safer",
+    "count": 2,
+    "pages": [
+     15,
+     28
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "DAVID MDSS",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "ABE NEWMAN",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "HARRY GENDZIER",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "JOSEPH HACKEL",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "RALPH MIZRAHI\nVICE-",
+    "count": 1,
+    "pages": [
+     7
+    ]
+   },
+   {
+    "name": "BEN B. YOFFEE\nVICE-",
+    "count": 1,
+    "pages": [
+     7
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00010",
+  "year": "1950-1951",
+  "clergy_candidates": [],
+  "president_candidates": [
+   {
+    "name": "OFFICERS\nRalph Mizrahi\nVice-",
+    "count": 1,
+    "pages": [
+     11
+    ]
+   },
+   {
+    "name": "Nathan Newman\nVice-",
+    "count": 1,
+    "pages": [
+     11
+    ]
+   },
+   {
+    "name": "Ben Yoffee\nVice-",
+    "count": 1,
+    "pages": [
+     11
+    ]
+   },
+   {
+    "name": "Mt\nAND ITS",
+    "count": 1,
+    "pages": [
+     20
+    ]
+   },
+   {
+    "name": "DAUGHTERS OF ISRAEL\nOFFICERS",
+    "count": 1,
+    "pages": [
+     27
+    ]
+   },
+   {
+    "name": "CLUB\nOFFICERS",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00011",
+  "year": "1951-1952",
+  "clergy_candidates": [
+   {
+    "name": "Cantor Jacob Goldring",
+    "count": 3,
+    "pages": [
+     49,
+     63,
+     73
+    ]
+   },
+   {
+    "name": "Rabbi Sanders A. Tofield",
+    "count": 2,
+    "pages": [
+     43,
+     71
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "WILLIAM H. JOHNSTON",
+    "count": 1,
+    "pages": [
+     10
+    ]
+   },
+   {
+    "name": "DAVID MOSS",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "ABE NEWMAN",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "HARRY GENDZIER",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "HARRY LEFF",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "Mt\nAND ITS",
+    "count": 1,
+    "pages": [
+     38
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00087",
+  "year": "1952-1953",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Sanders A. Tofield",
+    "count": 4,
+    "pages": [
+     67,
+     112,
+     117,
+     135
+    ]
+   },
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 4,
+    "pages": [
+     67,
+     110,
+     110,
+     112
+    ]
+   },
+   {
+    "name": "Rabbi Morris B. Chapman",
+    "count": 2,
+    "pages": [
+     107,
+     132
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "CLUB\nOFFICERS",
+    "count": 1,
+    "pages": [
+     5
+    ]
+   },
+   {
+    "name": "THE COUPLES\nCLUB\nOFFICERS",
+    "count": 1,
+    "pages": [
+     7
+    ]
+   },
+   {
+    "name": "LEW MEISEL\nL\nOFFICERS",
+    "count": 1,
+    "pages": [
+     20
+    ]
+   },
+   {
+    "name": "H. C. MILLER",
+    "count": 1,
+    "pages": [
+     34
+    ]
+   },
+   {
+    "name": "SANDRA RO SENFIEED\nVice",
+    "count": 1,
+    "pages": [
+     44
+    ]
+   },
+   {
+    "name": "MASADA CLUB\nOFFICERS",
+    "count": 1,
+    "pages": [
+     58
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00012",
+  "year": "1953-1954",
+  "clergy_candidates": [
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 2,
+    "pages": [
+     43,
+     73
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "BEN B. YOFFEE\nVice",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   },
+   {
+    "name": "WILLIAM H. JOHNSTON",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "CENTER MEN'S CLUB\nOFFICERS",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   },
+   {
+    "name": "THE COUPLES CLUB\nOFFICERS",
+    "count": 1,
+    "pages": [
+     31
+    ]
+   },
+   {
+    "name": "OFFICERS\nHonorary President",
+    "count": 1,
+    "pages": [
+     123
+    ]
+   },
+   {
+    "name": "THE JACKSONVILLE ZIONIST DISTRICT",
+    "count": 1,
+    "pages": [
+     127
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00013",
+  "year": "1954-1955",
+  "clergy_candidates": [],
+  "president_candidates": [
+   {
+    "name": "INC.\nR. C. DUGGAN",
+    "count": 1,
+    "pages": [
+     4
+    ]
+   },
+   {
+    "name": "America\nOFFICERS",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   },
+   {
+    "name": "Junior Hadassah\nOFFICERS",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   },
+   {
+    "name": "BEVERLY NALLE\nVice President",
+    "count": 1,
+    "pages": [
+     36
+    ]
+   },
+   {
+    "name": "Treasurer\nMarvin Halpern\nESTHERETTE",
+    "count": 1,
+    "pages": [
+     45
+    ]
+   },
+   {
+    "name": "MARTIN LIND\nOFFICERS",
+    "count": 1,
+    "pages": [
+     79
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00014",
+  "year": "1955-1956",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Sanders A. Tofield",
+    "count": 2,
+    "pages": [
+     7,
+     80
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "President\nVice-",
+    "count": 2,
+    "pages": [
+     16,
+     114
+    ]
+   },
+   {
+    "name": "Sam\nWolfson",
+    "count": 1,
+    "pages": [
+     39
+    ]
+   },
+   {
+    "name": "DR. IRVING DIAMOND\nOFFICERS",
+    "count": 1,
+    "pages": [
+     42
+    ]
+   },
+   {
+    "name": "University\nOFFICERS",
+    "count": 1,
+    "pages": [
+     44
+    ]
+   },
+   {
+    "name": "America\nJACKSONVILLE DISTRICT\nOFFICERS",
+    "count": 1,
+    "pages": [
+     52
+    ]
+   },
+   {
+    "name": "Mortimer May",
+    "count": 1,
+    "pages": [
+     52
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00015",
+  "year": "1956-1957",
+  "clergy_candidates": [
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 3,
+    "pages": [
+     31,
+     38,
+     70
+    ]
+   },
+   {
+    "name": "Rabbi Sanders A. Tofield",
+    "count": 3,
+    "pages": [
+     46,
+     70,
+     74
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "OFFICERS\nJOE BECKER\nVice-",
+    "count": 1,
+    "pages": [
+     14
+    ]
+   },
+   {
+    "name": "BEN B. YOFFEE\nVice-",
+    "count": 1,
+    "pages": [
+     14
+    ]
+   },
+   {
+    "name": "PHILIP BORK\nPast",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "MAX ROSE\nPast",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "Regional Conference. Regional",
+    "count": 1,
+    "pages": [
+     40
+    ]
+   },
+   {
+    "name": "National Vice-",
+    "count": 1,
+    "pages": [
+     46
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00016",
+  "year": "1957-1958",
+  "clergy_candidates": [],
+  "president_candidates": [
+   {
+    "name": "Wm. G. Colmery",
+    "count": 1,
+    "pages": [
+     8
+    ]
+   },
+   {
+    "name": "Elliott Adams\nVice",
+    "count": 1,
+    "pages": [
+     8
+    ]
+   },
+   {
+    "name": "Stuart Levine\nVice-",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   },
+   {
+    "name": "Harry Shorstein\nVice-",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   },
+   {
+    "name": "Eddie Robin\nOFFICERS",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "HI\nELI EDWARDS",
+    "count": 1,
+    "pages": [
+     26
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00017",
+  "year": "1958-1959",
+  "clergy_candidates": [
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 4,
+    "pages": [
+     29,
+     143,
+     201,
+     201
+    ]
+   },
+   {
+    "name": "Rabbi David C. Kogen",
+    "count": 2,
+    "pages": [
+     15,
+     201
+    ]
+   },
+   {
+    "name": "Cantor Abraham Marion",
+    "count": 2,
+    "pages": [
+     19,
+     201
+    ]
+   },
+   {
+    "name": "Rabbi S. A. Tofield",
+    "count": 2,
+    "pages": [
+     47,
+     201
+    ]
+   },
+   {
+    "name": "Cantor Abraham\nMarion.\nFront Row",
+    "count": 2,
+    "pages": [
+     61,
+     201
+    ]
+   },
+   {
+    "name": "Cantor A. Marion",
+    "count": 2,
+    "pages": [
+     85,
+     201
+    ]
+   },
+   {
+    "name": "Cantor Abraham\nMart",
+    "count": 2,
+    "pages": [
+     85,
+     201
+    ]
+   },
+   {
+    "name": "Cantor Abraham\nMarion",
+    "count": 2,
+    "pages": [
+     105,
+     201
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "W. G. COLMERY",
+    "count": 2,
+    "pages": [
+     3,
+     201
+    ]
+   },
+   {
+    "name": "ELLIOTT ADAMS\nVice-",
+    "count": 2,
+    "pages": [
+     3,
+     201
+    ]
+   },
+   {
+    "name": "Inc.\nJ. ELLIS CROSBY",
+    "count": 2,
+    "pages": [
+     3,
+     201
+    ]
+   },
+   {
+    "name": "JR.\nVice-",
+    "count": 2,
+    "pages": [
+     3,
+     201
+    ]
+   },
+   {
+    "name": "Burton I. Grossman",
+    "count": 2,
+    "pages": [
+     19,
+     201
+    ]
+   },
+   {
+    "name": "WILLIAM H. JOHNSTON",
+    "count": 2,
+    "pages": [
+     20,
+     201
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00018",
+  "year": "1959-1960",
+  "clergy_candidates": [
+   {
+    "name": "Cantor A. Marton",
+    "count": 2,
+    "pages": [
+     67,
+     69
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Vice-President\nVice-",
+    "count": 2,
+    "pages": [
+     135,
+     141
+    ]
+   },
+   {
+    "name": "OFFICERS\nPresident\nVice-President\nVice-",
+    "count": 2,
+    "pages": [
+     141,
+     153
+    ]
+   },
+   {
+    "name": "EARN\nN G. GOLMERY",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "ELLIOTT ADAMS\nVice-",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "JR.\nVice-",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "HAROLD EINBINDER\nOFFICERS",
+    "count": 1,
+    "pages": [
+     33
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00019",
+  "year": "1960-1961",
+  "clergy_candidates": [
+   {
+    "name": "Cantor A. Marton",
+    "count": 3,
+    "pages": [
+     69,
+     81,
+     173
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "W. G. COLMERY",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "ELLIOTT ADAMS\nVice-",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "JR.\nVice-",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "NATIONALLY\nBENNY FLETCHER",
+    "count": 1,
+    "pages": [
+     22
+    ]
+   },
+   {
+    "name": "Good Deeds.\nLOUIS SAFER",
+    "count": 1,
+    "pages": [
+     23
+    ]
+   },
+   {
+    "name": "BEN YOFFEE\nVice-",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00020",
+  "year": "1961-1962",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Moshe V. Goldblum",
+    "count": 2,
+    "pages": [
+     19,
+     35
+    ]
+   },
+   {
+    "name": "Cantor A. Marton",
+    "count": 2,
+    "pages": [
+     81,
+     83
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Officers\nW. G. COLMERY",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "ELLIOTT ADAMS\nVice-",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "W. G. COLMERY",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "JR.\nVice-",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "Allen Rutchik",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   },
+   {
+    "name": "Vice-President\nHYMAN SELBER\nVice-",
+    "count": 1,
+    "pages": [
+     21
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00021",
+  "year": "1962-1963",
+  "clergy_candidates": [],
+  "president_candidates": [
+   {
+    "name": "Vice-President\nVice-",
+    "count": 2,
+    "pages": [
+     22,
+     173
+    ]
+   },
+   {
+    "name": "President Emanuel Ehrlich\nVice-",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   },
+   {
+    "name": "Paul J. Bossen\nVice-",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   },
+   {
+    "name": "Dr. Ernest Goldsmith\nVice-",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   },
+   {
+    "name": "DIRECTORS\nW. G. COLMERY",
+    "count": 1,
+    "pages": [
+     37
+    ]
+   },
+   {
+    "name": "ELLIOTT ADAMS\nVice-",
+    "count": 1,
+    "pages": [
+     37
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00022",
+  "year": "1963-1964",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Allen Rutchik",
+    "count": 4,
+    "pages": [
+     101,
+     191,
+     237,
+     237
+    ]
+   },
+   {
+    "name": "Rabbi Samuel Benjamin",
+    "count": 2,
+    "pages": [
+     5,
+     237
+    ]
+   },
+   {
+    "name": "Rabbi Arnold Turetsky",
+    "count": 2,
+    "pages": [
+     13,
+     237
+    ]
+   },
+   {
+    "name": "Rabbi Arnold S. Turetsky",
+    "count": 2,
+    "pages": [
+     15,
+     237
+    ]
+   },
+   {
+    "name": "Rabbi Moshe V. Goldblum",
+    "count": 2,
+    "pages": [
+     17,
+     237
+    ]
+   },
+   {
+    "name": "Rabbi Goldblum.\nAlmost",
+    "count": 2,
+    "pages": [
+     17,
+     237
+    ]
+   },
+   {
+    "name": "Rabbi Mordecai Waxman",
+    "count": 2,
+    "pages": [
+     47,
+     237
+    ]
+   },
+   {
+    "name": "Rabbi Abraham Karp",
+    "count": 2,
+    "pages": [
+     47,
+     237
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "DIRECTORS\nW. G. COLMERY",
+    "count": 2,
+    "pages": [
+     2,
+     237
+    ]
+   },
+   {
+    "name": "ELLIOTT ADAMS\nVice-",
+    "count": 2,
+    "pages": [
+     2,
+     237
+    ]
+   },
+   {
+    "name": "Day Camp\nOutgoing",
+    "count": 2,
+    "pages": [
+     19,
+     237
+    ]
+   },
+   {
+    "name": "PHILIP SELBER",
+    "count": 2,
+    "pages": [
+     19,
+     237
+    ]
+   },
+   {
+    "name": "Inc.\nMAX RUBIN\nPast",
+    "count": 2,
+    "pages": [
+     25,
+     237
+    ]
+   },
+   {
+    "name": "Co.\nLOUIS SAFER\nPast",
+    "count": 2,
+    "pages": [
+     25,
+     237
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00023",
+  "year": "1964-1965",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Arnold S. Turetsky",
+    "count": 3,
+    "pages": [
+     12,
+     90,
+     108
+    ]
+   },
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 2,
+    "pages": [
+     34,
+     90
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "MALCOM A. NODEN\nVice",
+    "count": 1,
+    "pages": [
+     8
+    ]
+   },
+   {
+    "name": "PHILIP SELBER",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "Directors\nPast",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "WILBUR MARGOL\nVice-",
+    "count": 1,
+    "pages": [
+     20
+    ]
+   },
+   {
+    "name": "WILLIAM H. JOHNSTON",
+    "count": 1,
+    "pages": [
+     21
+    ]
+   },
+   {
+    "name": "Insurance\nRALPH MIZRAHI\nPast",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00024",
+  "year": "1965-1966",
+  "clergy_candidates": [
+   {
+    "name": "Cantor A. Marton",
+    "count": 2,
+    "pages": [
+     48,
+     84
+    ]
+   },
+   {
+    "name": "Rabbi Arnold S. Turetsky",
+    "count": 2,
+    "pages": [
+     100,
+     116
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "OFFICERS\nPresident\nVice-",
+    "count": 2,
+    "pages": [
+     46,
+     118
+    ]
+   },
+   {
+    "name": "ELLIOTT ADAMS\nVice-",
+    "count": 1,
+    "pages": [
+     3
+    ]
+   },
+   {
+    "name": "PHILIP SELBER",
+    "count": 1,
+    "pages": [
+     20
+    ]
+   },
+   {
+    "name": "Trustees\nWILBUR MARGOL\nVice-",
+    "count": 1,
+    "pages": [
+     22
+    ]
+   },
+   {
+    "name": "Co.\nLOUIS SAFER\nPast",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Insurance\nHARRY LEFF\nPast",
+    "count": 1,
+    "pages": [
+     30
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00025",
+  "year": "1966-1967",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Arnold S. Turetsky",
+    "count": 7,
+    "pages": [
+     34,
+     48,
+     48,
+     78,
+     92,
+     104,
+     124
+    ]
+   },
+   {
+    "name": "Cantor A. Marton",
+    "count": 3,
+    "pages": [
+     82,
+     92,
+     104
+    ]
+   },
+   {
+    "name": "Rabbi Jerome Lipnick",
+    "count": 2,
+    "pages": [
+     12,
+     18
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "OFFICERS\nPresident\nFirst Vice-",
+    "count": 2,
+    "pages": [
+     192,
+     192
+    ]
+   },
+   {
+    "name": "Second Vice-",
+    "count": 2,
+    "pages": [
+     192,
+     192
+    ]
+   },
+   {
+    "name": "JACK BECKER",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "LEWIS ANSBACHER\nVice-",
+    "count": 1,
+    "pages": [
+     20
+    ]
+   },
+   {
+    "name": "Finance\nJACK SHORSTEIN\nVice-",
+    "count": 1,
+    "pages": [
+     20
+    ]
+   },
+   {
+    "name": "Co.\nLOUIS SAFER\nPast",
+    "count": 1,
+    "pages": [
+     26
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00026",
+  "year": "1967-1968",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jerome Lipnick",
+    "count": 3,
+    "pages": [
+     46,
+     48,
+     92
+    ]
+   },
+   {
+    "name": "Cantor A. Marton",
+    "count": 2,
+    "pages": [
+     48,
+     78
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "JACK BECKER",
+    "count": 1,
+    "pages": [
+     16
+    ]
+   },
+   {
+    "name": "Rabbi Sol Landau",
+    "count": 1,
+    "pages": [
+     32
+    ]
+   },
+   {
+    "name": "Mrs. Mitchell Peltz\nVice-",
+    "count": 1,
+    "pages": [
+     40
+    ]
+   },
+   {
+    "name": "CddlwL\nOFFICERS",
+    "count": 1,
+    "pages": [
+     128
+    ]
+   },
+   {
+    "name": "Mrs. Morton Harris\nVice-",
+    "count": 1,
+    "pages": [
+     128
+    ]
+   },
+   {
+    "name": "OFFICERS\nPresident\nVice-",
+    "count": 1,
+    "pages": [
+     130
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00027",
+  "year": "1968-1969",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jerome Lipnick",
+    "count": 2,
+    "pages": [
+     14,
+     92
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "NATHAN FREIDLIN",
+    "count": 1,
+    "pages": [
+     16
+    ]
+   },
+   {
+    "name": "Lenter\nLEWIS ANSBACHER\nVice-",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "Campsite\nMELVIN JAWITZ\nVice-",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "Attorney\nJACK SHORSTEIN\nVice-",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "HARRY GENDZIER\nPast",
+    "count": 1,
+    "pages": [
+     26
+    ]
+   },
+   {
+    "name": "HARRY LEFF\nPast",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00028",
+  "year": "1969-1970",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jerome Lipnick",
+    "count": 5,
+    "pages": [
+     14,
+     80,
+     92,
+     136,
+     177
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "NATHAN FREIDLIN",
+    "count": 1,
+    "pages": [
+     16
+    ]
+   },
+   {
+    "name": "LEWIS ANSBACHER\nVice-",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "Attorney\nJACK SHORSTEIN\nVice-",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "Cnter\nJACK BECKER\nPast",
+    "count": 1,
+    "pages": [
+     20
+    ]
+   },
+   {
+    "name": "PHILIP BORK\nPast",
+    "count": 1,
+    "pages": [
+     26
+    ]
+   },
+   {
+    "name": "HARRY GENDZIER\nPast",
+    "count": 1,
+    "pages": [
+     26
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00029",
+  "year": "1970-1971",
+  "clergy_candidates": [
+   {
+    "name": "Cantor Abraham\nMarton",
+    "count": 2,
+    "pages": [
+     37,
+     71
+    ]
+   },
+   {
+    "name": "Cantor A. Marton",
+    "count": 2,
+    "pages": [
+     81,
+     95
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Faith.\nWILBUR MARGOL",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "Chewier\nLEWIS ANSBACHER\nVice-",
+    "count": 1,
+    "pages": [
+     19
+    ]
+   },
+   {
+    "name": "JACK BECKER\nPast",
+    "count": 1,
+    "pages": [
+     21
+    ]
+   },
+   {
+    "name": "Mrs. Donald Young\nVice-",
+    "count": 1,
+    "pages": [
+     41
+    ]
+   },
+   {
+    "name": "President\nVice-President\nVice-",
+    "count": 1,
+    "pages": [
+     47
+    ]
+   },
+   {
+    "name": "Mark Shorstein",
+    "count": 1,
+    "pages": [
+     105
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00030",
+  "year": "1971-1972",
+  "clergy_candidates": [
+   {
+    "name": "Cantor A. Marton",
+    "count": 4,
+    "pages": [
+     60,
+     80,
+     185,
+     238
+    ]
+   },
+   {
+    "name": "Rabbi Dov Peretz Elkins",
+    "count": 3,
+    "pages": [
+     5,
+     5,
+     218
+    ]
+   },
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 2,
+    "pages": [
+     5,
+     171
+    ]
+   },
+   {
+    "name": "Rabbi D. P. Elkins",
+    "count": 2,
+    "pages": [
+     154,
+     178
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Wilbur Margol",
+    "count": 2,
+    "pages": [
+     5,
+     178
+    ]
+   },
+   {
+    "name": "D. Homie Dossabhoy",
+    "count": 1,
+    "pages": [
+     3
+    ]
+   },
+   {
+    "name": "President Rochelle Zucker\nVice-",
+    "count": 1,
+    "pages": [
+     8
+    ]
+   },
+   {
+    "name": "Karen Fleischer\nVice-",
+    "count": 1,
+    "pages": [
+     8
+    ]
+   },
+   {
+    "name": "Mitch Kowitz\nVice-",
+    "count": 1,
+    "pages": [
+     8
+    ]
+   },
+   {
+    "name": "Michael\nShorstein",
+    "count": 1,
+    "pages": [
+     8
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00031",
+  "year": "1972-1973",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Peretz Elkins",
+    "count": 4,
+    "pages": [
+     65,
+     169,
+     204,
+     249
+    ]
+   },
+   {
+    "name": "Rabbi Benj. Feldman",
+    "count": 2,
+    "pages": [
+     65,
+     65
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Samuel\nSchuster",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "D. Homie Dossabhoy",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "Michael Shorstein",
+    "count": 1,
+    "pages": [
+     8
+    ]
+   },
+   {
+    "name": "President Scott Greenfield\nVice-",
+    "count": 1,
+    "pages": [
+     8
+    ]
+   },
+   {
+    "name": "Director\nBennett Hirsh",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   },
+   {
+    "name": "Jack Coleman\nVice",
+    "count": 1,
+    "pages": [
+     26
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00032",
+  "year": "1973-1974",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 3,
+    "pages": [
+     9,
+     120,
+     181
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "OFFICER\nHonorary President",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   },
+   {
+    "name": "OFFICERS\nPresident\nVice-",
+    "count": 1,
+    "pages": [
+     81
+    ]
+   },
+   {
+    "name": "MRS. MILTON LIPKOWITZ",
+    "count": 1,
+    "pages": [
+     81
+    ]
+   },
+   {
+    "name": "Mrs. Stanley Kantor",
+    "count": 1,
+    "pages": [
+     86
+    ]
+   },
+   {
+    "name": "Mrs. Harold Pausman\nVice-",
+    "count": 1,
+    "pages": [
+     93
+    ]
+   },
+   {
+    "name": "Bonnie Baumgarten\nVice-",
+    "count": 1,
+    "pages": [
+     105
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00033",
+  "year": "1974-1975",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 3,
+    "pages": [
+     11,
+     99,
+     241
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Sr.\nVice",
+    "count": 1,
+    "pages": [
+     3
+    ]
+   },
+   {
+    "name": "CHARLES J. MIZRAHI",
+    "count": 1,
+    "pages": [
+     13
+    ]
+   },
+   {
+    "name": "LAWRENCE JAFFE\nVice-",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   },
+   {
+    "name": "JACK BECKER\nPast",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "Health\nLOUIS SAFER\nPast",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   },
+   {
+    "name": "Charles J. Mizrahi",
+    "count": 1,
+    "pages": [
+     31
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00034",
+  "year": "1975-1976",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 2,
+    "pages": [
+     9,
+     9
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Mrs. Jack Sternstein\nVice-",
+    "count": 2,
+    "pages": [
+     195,
+     195
+    ]
+   },
+   {
+    "name": "Wilmer E. Sheaffer\nVice",
+    "count": 1,
+    "pages": [
+     3
+    ]
+   },
+   {
+    "name": "Area Manager\nSAN JOSE",
+    "count": 1,
+    "pages": [
+     3
+    ]
+   },
+   {
+    "name": "Charles J. Mizrahi",
+    "count": 1,
+    "pages": [
+     11
+    ]
+   },
+   {
+    "name": "GROSSMAN\nPast",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "Cemetery Comm.\nPast",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00035",
+  "year": "1976-1977",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 4,
+    "pages": [
+     40,
+     244,
+     266,
+     284
+    ]
+   },
+   {
+    "name": "Rabbi Samuel Benjamin",
+    "count": 2,
+    "pages": [
+     19,
+     305
+    ]
+   },
+   {
+    "name": "Rabbi Arthur Ginzler",
+    "count": 2,
+    "pages": [
+     79,
+     305
+    ]
+   },
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 2,
+    "pages": [
+     244,
+     287
+    ]
+   },
+   {
+    "name": "Rabbi Efraim Warshaw",
+    "count": 2,
+    "pages": [
+     282,
+     282
+    ]
+   },
+   {
+    "name": "Rev. B. Safer",
+    "count": 2,
+    "pages": [
+     290,
+     305
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "M.D.\nVice",
+    "count": 2,
+    "pages": [
+     30,
+     30
+    ]
+   },
+   {
+    "name": "Mrs. Sol Gottlieb\nVice-",
+    "count": 2,
+    "pages": [
+     98,
+     98
+    ]
+   },
+   {
+    "name": "Sue Ann Blumenthal\nVice",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "HARRY KATZ",
+    "count": 1,
+    "pages": [
+     24
+    ]
+   },
+   {
+    "name": "Charles J. Mizrahi",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "LOA Jacksonulle District",
+    "count": 1,
+    "pages": [
+     30
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00036",
+  "year": "1977-1978",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 4,
+    "pages": [
+     13,
+     33,
+     41,
+     75
+    ]
+   },
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 3,
+    "pages": [
+     37,
+     41,
+     75
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Second Vice",
+    "count": 2,
+    "pages": [
+     233,
+     243
+    ]
+   },
+   {
+    "name": "Pension Actuaries",
+    "count": 1,
+    "pages": [
+     14
+    ]
+   },
+   {
+    "name": "Sheldon Gendzier",
+    "count": 1,
+    "pages": [
+     23
+    ]
+   },
+   {
+    "name": "Vice President",
+    "count": 1,
+    "pages": [
+     27
+    ]
+   },
+   {
+    "name": "A'\nOFFICERS",
+    "count": 1,
+    "pages": [
+     161
+    ]
+   },
+   {
+    "name": "Gertrude Arab\nVice",
+    "count": 1,
+    "pages": [
+     161
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00037",
+  "year": "1978-1979",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 4,
+    "pages": [
+     66,
+     94,
+     294,
+     318
+    ]
+   },
+   {
+    "name": "Rabbi Gary Perras",
+    "count": 2,
+    "pages": [
+     56,
+     56
+    ]
+   },
+   {
+    "name": "Cantor David Lefkowitz",
+    "count": 2,
+    "pages": [
+     95,
+     95
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 2,
+    "pages": [
+     292,
+     292
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Annetta\n\n \n\nAnnetta Kornblum",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "Youth Vice-",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "Means Vice-",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "Annetta Kornblum",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "Cultural Vice-",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "Membership Vice-",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00038",
+  "year": "1979-1980",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 12,
+    "pages": [
+     40,
+     56,
+     75,
+     75,
+     133,
+     133,
+     138,
+     217,
+     245,
+     271,
+     271,
+     276
+    ]
+   },
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 6,
+    "pages": [
+     23,
+     33,
+     67,
+     72,
+     74,
+     199
+    ]
+   },
+   {
+    "name": "Cantor A. Marton",
+    "count": 2,
+    "pages": [
+     56,
+     324
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "JOE P. SAFER",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   },
+   {
+    "name": "Esther Fox\nVice",
+    "count": 1,
+    "pages": [
+     24
+    ]
+   },
+   {
+    "name": "JACK COLEMAN",
+    "count": 1,
+    "pages": [
+     36
+    ]
+   },
+   {
+    "name": "President Jack Coleman",
+    "count": 1,
+    "pages": [
+     36
+    ]
+   },
+   {
+    "name": "Elect Lewis Meisel\nVice",
+    "count": 1,
+    "pages": [
+     36
+    ]
+   },
+   {
+    "name": "Afternoon Chapter",
+    "count": 1,
+    "pages": [
+     102
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00039",
+  "year": "1980-1981",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 5,
+    "pages": [
+     12,
+     177,
+     202,
+     288,
+     305
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 5,
+    "pages": [
+     42,
+     49,
+     166,
+     167,
+     288
+    ]
+   },
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 2,
+    "pages": [
+     304,
+     304
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "NATHAN KRESTUL",
+    "count": 1,
+    "pages": [
+     5
+    ]
+   },
+   {
+    "name": "ROBERT A. MAROTTA",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "President\nVice",
+    "count": 1,
+    "pages": [
+     37
+    ]
+   },
+   {
+    "name": "Roslyn Klein\nVice-",
+    "count": 1,
+    "pages": [
+     99
+    ]
+   },
+   {
+    "name": "OFFICERS\nPresident\nFirst Vice",
+    "count": 1,
+    "pages": [
+     116
+    ]
+   },
+   {
+    "name": "Second Vice",
+    "count": 1,
+    "pages": [
+     116
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00040",
+  "year": "1981-1982",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 5,
+    "pages": [
+     46,
+     100,
+     124,
+     204,
+     210
+    ]
+   },
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 3,
+    "pages": [
+     26,
+     108,
+     204
+    ]
+   },
+   {
+    "name": "Rabbi Dov\nKentof",
+    "count": 2,
+    "pages": [
+     44,
+     106
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Nathan Krestul",
+    "count": 1,
+    "pages": [
+     22
+    ]
+   },
+   {
+    "name": "Directors\nNATHAN KRESTUL",
+    "count": 1,
+    "pages": [
+     24
+    ]
+   },
+   {
+    "name": "Cultural Vice-",
+    "count": 1,
+    "pages": [
+     30
+    ]
+   },
+   {
+    "name": "Marsha Pollock",
+    "count": 1,
+    "pages": [
+     40
+    ]
+   },
+   {
+    "name": "Joel Bressler",
+    "count": 1,
+    "pages": [
+     49
+    ]
+   },
+   {
+    "name": "Nathan Sandler",
+    "count": 1,
+    "pages": [
+     49
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00041",
+  "year": "1982-1983",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 4,
+    "pages": [
+     63,
+     187,
+     222,
+     246
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "TELEPHONE\nJerry T. Hamm",
+    "count": 1,
+    "pages": [
+     5
+    ]
+   },
+   {
+    "name": "President\nVice",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "Millard E. Fowler",
+    "count": 1,
+    "pages": [
+     23
+    ]
+   },
+   {
+    "name": "Shirley Weiler\nVice",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Hecht\nVice President\nVice",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Stuart I. Hecht",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00042",
+  "year": "1983-1984",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 5,
+    "pages": [
+     6,
+     9,
+     218,
+     230,
+     247
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 2,
+    "pages": [
+     6,
+     32
+    ]
+   },
+   {
+    "name": "Cantor Jeffrey Nadel",
+    "count": 2,
+    "pages": [
+     260,
+     260
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Executive Vice-",
+    "count": 1,
+    "pages": [
+     32
+    ]
+   },
+   {
+    "name": "Fla. Branch",
+    "count": 1,
+    "pages": [
+     34
+    ]
+   },
+   {
+    "name": "Mildred Edwards\nVice",
+    "count": 1,
+    "pages": [
+     35
+    ]
+   },
+   {
+    "name": "Proceaa\nTRaatov\nHERB TOLLESON",
+    "count": 1,
+    "pages": [
+     39
+    ]
+   },
+   {
+    "name": "Millard E. Fowler",
+    "count": 1,
+    "pages": [
+     39
+    ]
+   },
+   {
+    "name": "Joel Bressler\nV. Pres",
+    "count": 1,
+    "pages": [
+     70
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00043",
+  "year": "1984-1985",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 4,
+    "pages": [
+     16,
+     34,
+     46,
+     116
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 3,
+    "pages": [
+     116,
+     118,
+     148
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "JERRY HAMM",
+    "count": 1,
+    "pages": [
+     11
+    ]
+   },
+   {
+    "name": "Actuaries\nVice-",
+    "count": 1,
+    "pages": [
+     23
+    ]
+   },
+   {
+    "name": "Dr. Joseph Honigman",
+    "count": 1,
+    "pages": [
+     24
+    ]
+   },
+   {
+    "name": "Joel Bressler\nV. Pres",
+    "count": 1,
+    "pages": [
+     61
+    ]
+   },
+   {
+    "name": "President\nSocial Vice",
+    "count": 1,
+    "pages": [
+     194
+    ]
+   },
+   {
+    "name": "President\nExecutive Vice",
+    "count": 1,
+    "pages": [
+     196
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00044",
+  "year": "1985-1986",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 6,
+    "pages": [
+     13,
+     51,
+     51,
+     57,
+     140,
+     149
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Actuaries\nVice-",
+    "count": 1,
+    "pages": [
+     24
+    ]
+   },
+   {
+    "name": "Dr. Joseph Honigman",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   },
+   {
+    "name": "Executive Vice-",
+    "count": 1,
+    "pages": [
+     169
+    ]
+   },
+   {
+    "name": "Aaron Scharf",
+    "count": 1,
+    "pages": [
+     169
+    ]
+   },
+   {
+    "name": "Meyer Caplan",
+    "count": 1,
+    "pages": [
+     171
+    ]
+   },
+   {
+    "name": "Area Council Officers",
+    "count": 1,
+    "pages": [
+     176
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00045",
+  "year": "1986-1987",
+  "clergy_candidates": [
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 2,
+    "pages": [
+     15,
+     15
+    ]
+   },
+   {
+    "name": "Cantor Abraham\nMarton Award",
+    "count": 2,
+    "pages": [
+     15,
+     15
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 2,
+    "pages": [
+     61,
+     67
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Social Action",
+    "count": 2,
+    "pages": [
+     85,
+     184
+    ]
+   },
+   {
+    "name": "Recording Secretary",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "RON McKENZIE",
+    "count": 1,
+    "pages": [
+     14
+    ]
+   },
+   {
+    "name": "AAI\nVICE",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Joel Bressler\nV. Pres",
+    "count": 1,
+    "pages": [
+     32
+    ]
+   },
+   {
+    "name": "Mickey Ehrlich\nVice",
+    "count": 1,
+    "pages": [
+     34
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00046",
+  "year": "1987-1988",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 8,
+    "pages": [
+     70,
+     82,
+     82,
+     82,
+     82,
+     125,
+     131,
+     166
+    ]
+   },
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 4,
+    "pages": [
+     82,
+     82,
+     137,
+     152
+    ]
+   },
+   {
+    "name": "Rabbi Louis Katzoff\nJuly",
+    "count": 2,
+    "pages": [
+     4,
+     82
+    ]
+   },
+   {
+    "name": "Cantor Eliot\nVogel",
+    "count": 2,
+    "pages": [
+     64,
+     82
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof\nYouth",
+    "count": 2,
+    "pages": [
+     67,
+     82
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof.\nChiles",
+    "count": 2,
+    "pages": [
+     70,
+     82
+    ]
+   },
+   {
+    "name": "Cantor Mitch Kowitz",
+    "count": 2,
+    "pages": [
+     79,
+     82
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof\n\nGimel",
+    "count": 2,
+    "pages": [
+     82,
+     117
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Executive Vice",
+    "count": 2,
+    "pages": [
+     17,
+     82
+    ]
+   },
+   {
+    "name": "Cheryl Bossen\nVice",
+    "count": 2,
+    "pages": [
+     17,
+     82
+    ]
+   },
+   {
+    "name": "Cindy Burman\nVice",
+    "count": 2,
+    "pages": [
+     17,
+     82
+    ]
+   },
+   {
+    "name": "Alan Mizrahi\nVice",
+    "count": 2,
+    "pages": [
+     17,
+     82
+    ]
+   },
+   {
+    "name": "Craig Kornblum\nVice",
+    "count": 2,
+    "pages": [
+     17,
+     82
+    ]
+   },
+   {
+    "name": "Mickey Ehrlich\n\nVice",
+    "count": 2,
+    "pages": [
+     24,
+     82
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00047",
+  "year": "1988-1989",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 3,
+    "pages": [
+     124,
+     124,
+     217
+    ]
+   },
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 2,
+    "pages": [
+     33,
+     47
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Steve Silverman\nSecond Vice",
+    "count": 1,
+    "pages": [
+     3
+    ]
+   },
+   {
+    "name": "Martin\nFinancial Vice-",
+    "count": 1,
+    "pages": [
+     3
+    ]
+   },
+   {
+    "name": "Hofen III",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "Joel Bressler\nV. Pres",
+    "count": 1,
+    "pages": [
+     19
+    ]
+   },
+   {
+    "name": "Emily Kaplan\nVice",
+    "count": 1,
+    "pages": [
+     24
+    ]
+   },
+   {
+    "name": "EA\nVice",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00048",
+  "year": "1989-1990",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 7,
+    "pages": [
+     47,
+     47,
+     142,
+     142,
+     188,
+     215,
+     215
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "President\nVice",
+    "count": 2,
+    "pages": [
+     13,
+     77
+    ]
+   },
+   {
+    "name": "PHILIP BLOOM\nEXECUTIVE VICE",
+    "count": 1,
+    "pages": [
+     4
+    ]
+   },
+   {
+    "name": "AAI\nVICE",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "Tikun Olam\nVice",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "Educational\nVice",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   },
+   {
+    "name": "Social Action",
+    "count": 1,
+    "pages": [
+     18
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00049",
+  "year": "1990-1991",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 4,
+    "pages": [
+     29,
+     47,
+     170,
+     179
+    ]
+   },
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 2,
+    "pages": [
+     6,
+     176
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "MA\nPresident\nVice-President\nVice-",
+    "count": 2,
+    "pages": [
+     2,
+     2
+    ]
+   },
+   {
+    "name": "Robert Gerson\nVice-",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "Officers\nDaniel Wilensky",
+    "count": 1,
+    "pages": [
+     7
+    ]
+   },
+   {
+    "name": "Religion\nSecretary",
+    "count": 1,
+    "pages": [
+     16
+    ]
+   },
+   {
+    "name": "HERB TOLLESON",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "Nathan Sandler\nSecond Vice",
+    "count": 1,
+    "pages": [
+     19
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00050",
+  "year": "1991-1992",
+  "clergy_candidates": [],
+  "president_candidates": [
+   {
+    "name": "James B. Ossi",
+    "count": 1,
+    "pages": [
+     12
+    ]
+   },
+   {
+    "name": "Directors\nDaniel Wilensky",
+    "count": 1,
+    "pages": [
+     19
+    ]
+   },
+   {
+    "name": "Shana Tova.\nIra Grann",
+    "count": 1,
+    "pages": [
+     21
+    ]
+   },
+   {
+    "name": "Ira Grann\nVice-",
+    "count": 1,
+    "pages": [
+     21
+    ]
+   },
+   {
+    "name": "Vice-President\nVice-President\nVice-President\nVice-",
+    "count": 1,
+    "pages": [
+     36
+    ]
+   },
+   {
+    "name": "Vice-President\nVice-",
+    "count": 1,
+    "pages": [
+     36
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00051",
+  "year": "1992-1993",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 3,
+    "pages": [
+     22,
+     59,
+     177
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 2,
+    "pages": [
+     58,
+     124
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Tikun Olam\nVice",
+    "count": 2,
+    "pages": [
+     81,
+     156
+    ]
+   },
+   {
+    "name": "Years\nChantal Littleton",
+    "count": 1,
+    "pages": [
+     6
+    ]
+   },
+   {
+    "name": "Corinthian Ave.\nRon Markis",
+    "count": 1,
+    "pages": [
+     9
+    ]
+   },
+   {
+    "name": "Youth. Currently George",
+    "count": 1,
+    "pages": [
+     23
+    ]
+   },
+   {
+    "name": "Directors\nDaniel Wilensky",
+    "count": 1,
+    "pages": [
+     27
+    ]
+   },
+   {
+    "name": "Marcy Rubens\nExecutive\nVice",
+    "count": 1,
+    "pages": [
+     81
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00052",
+  "year": "1993-1994",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 4,
+    "pages": [
+     125,
+     165,
+     165,
+     181
+    ]
+   },
+   {
+    "name": "Cantor Joel Fox",
+    "count": 3,
+    "pages": [
+     16,
+     46,
+     46
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 3,
+    "pages": [
+     181,
+     181,
+     196
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Hanley Donen",
+    "count": 1,
+    "pages": [
+     4
+    ]
+   },
+   {
+    "name": "Save James B. Ossi",
+    "count": 1,
+    "pages": [
+     7
+    ]
+   },
+   {
+    "name": "Senior Vice",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   },
+   {
+    "name": "Steve Silverman\nFirst Vice",
+    "count": 1,
+    "pages": [
+     90
+    ]
+   },
+   {
+    "name": "Matthew Edelman\nVice",
+    "count": 1,
+    "pages": [
+     90
+    ]
+   },
+   {
+    "name": "Dr. Kenneth Sekine\nVice",
+    "count": 1,
+    "pages": [
+     90
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00053",
+  "year": "1994-1995",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 3,
+    "pages": [
+     158,
+     173,
+     173
+    ]
+   },
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 2,
+    "pages": [
+     112,
+     173
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Vice President\nVice",
+    "count": 3,
+    "pages": [
+     193,
+     193,
+     193
+    ]
+   },
+   {
+    "name": "OFFICERS\nPresident\nVice",
+    "count": 1,
+    "pages": [
+     22
+    ]
+   },
+   {
+    "name": "Senior Vice",
+    "count": 1,
+    "pages": [
+     24
+    ]
+   },
+   {
+    "name": "Vice President\nHenry Weintraub",
+    "count": 1,
+    "pages": [
+     78
+    ]
+   },
+   {
+    "name": "Matthew Edelman\nVice",
+    "count": 1,
+    "pages": [
+     99
+    ]
+   },
+   {
+    "name": "Dr. Kenneth Sekine\nVice",
+    "count": 1,
+    "pages": [
+     99
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00054",
+  "year": "1995-1996",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 4,
+    "pages": [
+     11,
+     16,
+     129,
+     135
+    ]
+   },
+   {
+    "name": "Cantor Joel Fox",
+    "count": 2,
+    "pages": [
+     13,
+     13
+    ]
+   },
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 2,
+    "pages": [
+     33,
+     165
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Stuart Hecht",
+    "count": 2,
+    "pages": [
+     13,
+     17
+    ]
+   },
+   {
+    "name": "Leonard Setzer\nVice",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "Edward Tannen\nVice",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "America.\nPhyllis Goldberg",
+    "count": 1,
+    "pages": [
+     24
+    ]
+   },
+   {
+    "name": "PTA.\nEllen Rosner",
+    "count": 1,
+    "pages": [
+     147
+    ]
+   },
+   {
+    "name": "Sheldon Gendzier\nVice",
+    "count": 1,
+    "pages": [
+     186
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00055",
+  "year": "1996-1997",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 5,
+    "pages": [
+     5,
+     25,
+     31,
+     159,
+     159
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 4,
+    "pages": [
+     14,
+     155,
+     161,
+     181
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Michael Donziger\nVice",
+    "count": 2,
+    "pages": [
+     203,
+     205
+    ]
+   },
+   {
+    "name": "Finance\nLeonard Setzer\nVice",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   },
+   {
+    "name": "President\nRandall Smith\nVice",
+    "count": 1,
+    "pages": [
+     23
+    ]
+   },
+   {
+    "name": "Raymond Cohen",
+    "count": 1,
+    "pages": [
+     36
+    ]
+   },
+   {
+    "name": "Ben Edwards\nVice",
+    "count": 1,
+    "pages": [
+     37
+    ]
+   },
+   {
+    "name": "Nathan Sandler",
+    "count": 1,
+    "pages": [
+     63
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00056",
+  "year": "1997-1998",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 5,
+    "pages": [
+     40,
+     64,
+     70,
+     78,
+     199
+    ]
+   },
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 5,
+    "pages": [
+     64,
+     80,
+     137,
+     170,
+     208
+    ]
+   },
+   {
+    "name": "Rabbi Dov\nKentof",
+    "count": 2,
+    "pages": [
+     1,
+     70
+    ]
+   },
+   {
+    "name": "Rabbi David\nGaffney",
+    "count": 2,
+    "pages": [
+     39,
+     64
+    ]
+   },
+   {
+    "name": "Rabbi Lawrence Kushner",
+    "count": 2,
+    "pages": [
+     118,
+     118
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Michael Lissner\nVice",
+    "count": 2,
+    "pages": [
+     79,
+     95
+    ]
+   },
+   {
+    "name": "Lewis Meisel\nVice",
+    "count": 2,
+    "pages": [
+     95,
+     95
+    ]
+   },
+   {
+    "name": "Stuart Herman",
+    "count": 1,
+    "pages": [
+     22
+    ]
+   },
+   {
+    "name": "Raymond Cohen",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   },
+   {
+    "name": "Chalutzim Officers",
+    "count": 1,
+    "pages": [
+     40
+    ]
+   },
+   {
+    "name": "Nathan Sandler",
+    "count": 1,
+    "pages": [
+     49
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00057",
+  "year": "1998-1999",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 15,
+    "pages": [
+     55,
+     56,
+     57,
+     65,
+     70,
+     77,
+     145,
+     145,
+     155,
+     155,
+     194,
+     210
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 6,
+    "pages": [
+     13,
+     21,
+     56,
+     102,
+     225,
+     238
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Lewis Meisel\nVice",
+    "count": 2,
+    "pages": [
+     29,
+     29
+    ]
+   },
+   {
+    "name": "Nathan Sandler",
+    "count": 1,
+    "pages": [
+     8
+    ]
+   },
+   {
+    "name": "Brian S. Benwick\nVice",
+    "count": 1,
+    "pages": [
+     27
+    ]
+   },
+   {
+    "name": "Brent M. Turbow\nVice",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   },
+   {
+    "name": "Bernard Datz\nVice",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   },
+   {
+    "name": "Fred Tromberg\nVice",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00058",
+  "year": "1999-2000",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 21,
+    "pages": [
+     3,
+     5,
+     20,
+     24,
+     28,
+     29,
+     31,
+     32,
+     33,
+     33,
+     34,
+     55
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof\nThank",
+    "count": 4,
+    "pages": [
+     21,
+     23,
+     25,
+     30
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof\nDirector",
+    "count": 2,
+    "pages": [
+     3,
+     5
+    ]
+   },
+   {
+    "name": "Rabbi Dov\nKentof",
+    "count": 2,
+    "pages": [
+     5,
+     45
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof\nYou",
+    "count": 2,
+    "pages": [
+     15,
+     27
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof\nMazel Tov",
+    "count": 2,
+    "pages": [
+     35,
+     36
+    ]
+   },
+   {
+    "name": "Cantor Aron Heller",
+    "count": 2,
+    "pages": [
+     43,
+     120
+    ]
+   },
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 2,
+    "pages": [
+     71,
+     123
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Russell Selevan\nVice",
+    "count": 1,
+    "pages": [
+     49
+    ]
+   },
+   {
+    "name": "Leonard Setzer\nVice",
+    "count": 1,
+    "pages": [
+     49
+    ]
+   },
+   {
+    "name": "David Schmerer\nVice",
+    "count": 1,
+    "pages": [
+     55
+    ]
+   },
+   {
+    "name": "Musical Director\nRaymond Cohen",
+    "count": 1,
+    "pages": [
+     59
+    ]
+   },
+   {
+    "name": "Ben Edwards\nVice",
+    "count": 1,
+    "pages": [
+     59
+    ]
+   },
+   {
+    "name": "Chalutzim Officers",
+    "count": 1,
+    "pages": [
+     125
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00059",
+  "year": "2000-2001",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 5,
+    "pages": [
+     5,
+     37,
+     53,
+     156,
+     156
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 5,
+    "pages": [
+     26,
+     181,
+     198,
+     216,
+     216
+    ]
+   },
+   {
+    "name": "Cantor Aron Heller",
+    "count": 3,
+    "pages": [
+     96,
+     107,
+     198
+    ]
+   },
+   {
+    "name": "Rabbi Reuvan Kimelman",
+    "count": 2,
+    "pages": [
+     5,
+     5
+    ]
+   },
+   {
+    "name": "Rabbi Ariel Asa",
+    "count": 2,
+    "pages": [
+     99,
+     209
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "David Schmerer\nVice",
+    "count": 1,
+    "pages": [
+     26
+    ]
+   },
+   {
+    "name": "Dr. Guy Benrubi\nVice",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Matthew Edelman\nVice",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Melvin Gottlieb\nVice",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Margery Serkin\nVice",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Trustees\nMelvin Gottlieb",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00060",
+  "year": "2001-2002",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 8,
+    "pages": [
+     68,
+     68,
+     87,
+     98,
+     110,
+     137,
+     137,
+     157
+    ]
+   },
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 5,
+    "pages": [
+     13,
+     16,
+     87,
+     137,
+     144
+    ]
+   },
+   {
+    "name": "Cantor Aron Heller",
+    "count": 2,
+    "pages": [
+     13,
+     157
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Large Vice",
+    "count": 2,
+    "pages": [
+     166,
+     166
+    ]
+   },
+   {
+    "name": "Trustees\nMelvin Gottlieb",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Melvin Gottlieb\n\nVice",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Leslie Held\n\nVice",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Debra Setzer\n\nVice",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Alan Margolies",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00061",
+  "year": "2002-2003",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Stephen Grundfast",
+    "count": 4,
+    "pages": [
+     47,
+     47,
+     83,
+     121
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 3,
+    "pages": [
+     83,
+     99,
+     151
+    ]
+   },
+   {
+    "name": "Rabbi Stephan Grundfast",
+    "count": 2,
+    "pages": [
+     52,
+     210
+    ]
+   },
+   {
+    "name": "Rabbi Stephen\nGrundfast",
+    "count": 2,
+    "pages": [
+     121,
+     173
+    ]
+   },
+   {
+    "name": "Rabbi Samuel Benjamin",
+    "count": 2,
+    "pages": [
+     217,
+     217
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "First Vice",
+    "count": 3,
+    "pages": [
+     22,
+     22,
+     22
+    ]
+   },
+   {
+    "name": "River Garden Holding Company",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "Minnie Schreiber\nVice",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "Michael Greenburg\nVice",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "Ronald Elinoff\nVice",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "Michael Lissner\nVice",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00062",
+  "year": "2003-2004",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Stephen Grundfast",
+    "count": 3,
+    "pages": [
+     3,
+     49,
+     119
+    ]
+   },
+   {
+    "name": "Rabbi Joseph Hirsch",
+    "count": 3,
+    "pages": [
+     43,
+     49,
+     98
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Philip Bloom\nPhilip Bloom",
+    "count": 1,
+    "pages": [
+     31
+    ]
+   },
+   {
+    "name": "Finance\nMichael DuBow\nVice",
+    "count": 1,
+    "pages": [
+     33
+    ]
+   },
+   {
+    "name": "Large\nVice",
+    "count": 1,
+    "pages": [
+     33
+    ]
+   },
+   {
+    "name": "Large\nLeonard Setzer\nVice",
+    "count": 1,
+    "pages": [
+     33
+    ]
+   },
+   {
+    "name": "Stanley DCantor",
+    "count": 1,
+    "pages": [
+     36
+    ]
+   },
+   {
+    "name": "Musical Director\nRaymond Cohen",
+    "count": 1,
+    "pages": [
+     37
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00063",
+  "year": "2004-2005",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 6,
+    "pages": [
+     3,
+     13,
+     15,
+     19,
+     85,
+     122
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Seeman Zimmerman\nSeeman Zimmerman",
+    "count": 1,
+    "pages": [
+     15
+    ]
+   },
+   {
+    "name": "Finance\nMichael DuBow\nVice",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "Large\nMel Gottlieb\nVice",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "Large\nRussell Selevan\nVice",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "Large\nLeonard Setzer\nVice",
+    "count": 1,
+    "pages": [
+     17
+    ]
+   },
+   {
+    "name": "Stanley SKantor",
+    "count": 1,
+    "pages": [
+     20
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00064",
+  "year": "2005-2006",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 7,
+    "pages": [
+     24,
+     48,
+     84,
+     126,
+     136,
+     192,
+     213
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Jim Kempner\nFirst Vice",
+    "count": 2,
+    "pages": [
+     13,
+     73
+    ]
+   },
+   {
+    "name": "Philip H. Bloom",
+    "count": 1,
+    "pages": [
+     31
+    ]
+   },
+   {
+    "name": "Joanne Rosenberg\nJoanne Rosenberg",
+    "count": 1,
+    "pages": [
+     66
+    ]
+   },
+   {
+    "name": "Jack Coleman",
+    "count": 1,
+    "pages": [
+     73
+    ]
+   },
+   {
+    "name": "Chalutzim Officers",
+    "count": 1,
+    "pages": [
+     119
+    ]
+   },
+   {
+    "name": "David Miller\nVice",
+    "count": 1,
+    "pages": [
+     137
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00065",
+  "year": "2006-2007",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 7,
+    "pages": [
+     41,
+     54,
+     54,
+     62,
+     188,
+     220,
+     239
+    ]
+   },
+   {
+    "name": "Rabbi David Weiner",
+    "count": 4,
+    "pages": [
+     54,
+     108,
+     170,
+     188
+    ]
+   },
+   {
+    "name": "Cantor Yitzhak Ben-Moshe",
+    "count": 3,
+    "pages": [
+     188,
+     193,
+     220
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Youth Vice",
+    "count": 1,
+    "pages": [
+     1
+    ]
+   },
+   {
+    "name": "Jaguar\nChristopher T. Hernandez",
+    "count": 1,
+    "pages": [
+     2
+    ]
+   },
+   {
+    "name": "First Vice",
+    "count": 1,
+    "pages": [
+     13
+    ]
+   },
+   {
+    "name": "Investment Officer",
+    "count": 1,
+    "pages": [
+     13
+    ]
+   },
+   {
+    "name": "Sandy Zimmerman",
+    "count": 1,
+    "pages": [
+     27
+    ]
+   },
+   {
+    "name": "Fred Tromberg\nVice",
+    "count": 1,
+    "pages": [
+     31
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00066",
+  "year": "2007-2008",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 3,
+    "pages": [
+     38,
+     93,
+     112
+    ]
+   },
+   {
+    "name": "Rabbi David Weiner",
+    "count": 3,
+    "pages": [
+     93,
+     93,
+     112
+    ]
+   },
+   {
+    "name": "Rabbi Jonathan\nLubliner",
+    "count": 2,
+    "pages": [
+     23,
+     92
+    ]
+   },
+   {
+    "name": "Rabbi Dr. Joseph Hirsch",
+    "count": 2,
+    "pages": [
+     72,
+     170
+    ]
+   },
+   {
+    "name": "Cantor Yitzhak Ben-Moshe",
+    "count": 2,
+    "pages": [
+     93,
+     112
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Finance\nMel Gottlieb\nVice",
+    "count": 1,
+    "pages": [
+     19
+    ]
+   },
+   {
+    "name": "Large\nRussell Selevan\nVice",
+    "count": 1,
+    "pages": [
+     19
+    ]
+   },
+   {
+    "name": "Large\nLeonard Setzer\nVice",
+    "count": 1,
+    "pages": [
+     19
+    ]
+   },
+   {
+    "name": "Musical Director\nRaymond Cohen",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   },
+   {
+    "name": "Dana Rogozinski.\nEtta Fialkow",
+    "count": 1,
+    "pages": [
+     29
+    ]
+   },
+   {
+    "name": "Dan Wohl\nVice",
+    "count": 1,
+    "pages": [
+     31
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00067",
+  "year": "2008-2009",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 10,
+    "pages": [
+     5,
+     7,
+     7,
+     118,
+     165,
+     207,
+     209,
+     209,
+     320,
+     367
+    ]
+   },
+   {
+    "name": "Cantor Jesse Holzer",
+    "count": 8,
+    "pages": [
+     7,
+     11,
+     101,
+     118,
+     209,
+     213,
+     303,
+     320
+    ]
+   },
+   {
+    "name": "Rabbi David Weiner",
+    "count": 4,
+    "pages": [
+     9,
+     118,
+     211,
+     320
+    ]
+   },
+   {
+    "name": "Rabbi Alan Lew",
+    "count": 4,
+    "pages": [
+     9,
+     31,
+     211,
+     233
+    ]
+   },
+   {
+    "name": "Rabbi Lubliner\nMy Space",
+    "count": 2,
+    "pages": [
+     7,
+     209
+    ]
+   },
+   {
+    "name": "Rabbi Shalom Noach\nBerezovsky",
+    "count": 2,
+    "pages": [
+     9,
+     211
+    ]
+   },
+   {
+    "name": "Rabbi Weiner. Leora",
+    "count": 2,
+    "pages": [
+     11,
+     213
+    ]
+   },
+   {
+    "name": "Cantor Ben-Moshe.\nLita Poehlman\nChair",
+    "count": 2,
+    "pages": [
+     31,
+     233
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Education\nJanice Knack\nVice",
+    "count": 2,
+    "pages": [
+     33,
+     235
+    ]
+   },
+   {
+    "name": "Membership\nLara Werwa\nVice",
+    "count": 2,
+    "pages": [
+     33,
+     235
+    ]
+   },
+   {
+    "name": "Dan Wohl\nVice",
+    "count": 2,
+    "pages": [
+     35,
+     237
+    ]
+   },
+   {
+    "name": "Treasurer\nBob Bossen\nVice",
+    "count": 2,
+    "pages": [
+     63,
+     265
+    ]
+   },
+   {
+    "name": "Perrin Rubin\nPast",
+    "count": 2,
+    "pages": [
+     95,
+     297
+    ]
+   },
+   {
+    "name": "Jake Fetner\nVice",
+    "count": 2,
+    "pages": [
+     107,
+     309
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00068",
+  "year": "2009-2010",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 4,
+    "pages": [
+     44,
+     44,
+     60,
+     156
+    ]
+   },
+   {
+    "name": "Cantor Jesse Holzer",
+    "count": 4,
+    "pages": [
+     74,
+     75,
+     75,
+     156
+    ]
+   },
+   {
+    "name": "Rabbi Rafi Cohen",
+    "count": 2,
+    "pages": [
+     60,
+     156
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Molly Latinberg\nVice",
+    "count": 1,
+    "pages": [
+     7
+    ]
+   },
+   {
+    "name": "Treasurer\nBob Bossen\nVice",
+    "count": 1,
+    "pages": [
+     14
+    ]
+   },
+   {
+    "name": "Dan Wohl\nVice",
+    "count": 1,
+    "pages": [
+     23
+    ]
+   },
+   {
+    "name": "Mt. Carmel Officers",
+    "count": 1,
+    "pages": [
+     72
+    ]
+   },
+   {
+    "name": "DDS\nVice",
+    "count": 1,
+    "pages": [
+     72
+    ]
+   },
+   {
+    "name": "Talie Zaifert\nPast",
+    "count": 1,
+    "pages": [
+     117
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00069",
+  "year": "2010-2011",
+  "clergy_candidates": [
+   {
+    "name": "Cantor Jesse Holzer",
+    "count": 4,
+    "pages": [
+     17,
+     17,
+     104,
+     119
+    ]
+   },
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 3,
+    "pages": [
+     13,
+     29,
+     119
+    ]
+   },
+   {
+    "name": "Rabbi David Gaffney",
+    "count": 2,
+    "pages": [
+     9,
+     10
+    ]
+   },
+   {
+    "name": "Rabbi Dov Kentof",
+    "count": 2,
+    "pages": [
+     9,
+     117
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Rehabilitation\nSam Rogozinski",
+    "count": 1,
+    "pages": [
+     32
+    ]
+   },
+   {
+    "name": "Musical Director\nRaymond Cohen",
+    "count": 1,
+    "pages": [
+     33
+    ]
+   },
+   {
+    "name": "CLUB OFFICERS",
+    "count": 1,
+    "pages": [
+     39
+    ]
+   },
+   {
+    "name": "Neil Gordon\nVice",
+    "count": 1,
+    "pages": [
+     39
+    ]
+   },
+   {
+    "name": "Treasurer\nBob Bossen\nVice",
+    "count": 1,
+    "pages": [
+     57
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00070",
+  "year": "2011-2012",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 5,
+    "pages": [
+     9,
+     9,
+     19,
+     42,
+     121
+    ]
+   },
+   {
+    "name": "Cantor Jesse Holzer",
+    "count": 4,
+    "pages": [
+     13,
+     28,
+     37,
+     121
+    ]
+   },
+   {
+    "name": "Rabbi Jesse Olitzky",
+    "count": 2,
+    "pages": [
+     9,
+     121
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Rehabilitation\nSam Rogozinski",
+    "count": 1,
+    "pages": [
+     12
+    ]
+   },
+   {
+    "name": "International\nVice",
+    "count": 1,
+    "pages": [
+     37
+    ]
+   },
+   {
+    "name": "Education Vice",
+    "count": 1,
+    "pages": [
+     37
+    ]
+   },
+   {
+    "name": "Youth Vice",
+    "count": 1,
+    "pages": [
+     37
+    ]
+   },
+   {
+    "name": "CLUB OFFICERS",
+    "count": 1,
+    "pages": [
+     39
+    ]
+   },
+   {
+    "name": "Neil Gordon\nVice",
+    "count": 1,
+    "pages": [
+     39
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00071",
+  "year": "2012-2013",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 6,
+    "pages": [
+     11,
+     11,
+     21,
+     33,
+     46,
+     131
+    ]
+   },
+   {
+    "name": "Cantor Jesse Holzer",
+    "count": 4,
+    "pages": [
+     15,
+     32,
+     105,
+     131
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Rehabilitation\nSam Rogozinski",
+    "count": 1,
+    "pages": [
+     14
+    ]
+   },
+   {
+    "name": "Education\nMichael DuBow",
+    "count": 1,
+    "pages": [
+     25
+    ]
+   },
+   {
+    "name": "Curt Cady",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "Ben Cady\nVice",
+    "count": 1,
+    "pages": [
+     28
+    ]
+   },
+   {
+    "name": "CLUB OFFICERS",
+    "count": 1,
+    "pages": [
+     43
+    ]
+   },
+   {
+    "name": "Treasurer\nBob Bossen\nVice",
+    "count": 1,
+    "pages": [
+     63
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00072",
+  "year": "2013-2014",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 5,
+    "pages": [
+     48,
+     61,
+     140,
+     161,
+     178
+    ]
+   },
+   {
+    "name": "Cantor Jesse Holzer",
+    "count": 3,
+    "pages": [
+     8,
+     178,
+     180
+    ]
+   },
+   {
+    "name": "Rabbi Jesse Olitzky",
+    "count": 2,
+    "pages": [
+     87,
+     178
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Engraving\nSigns\nRAY MOORE",
+    "count": 1,
+    "pages": [
+     33
+    ]
+   },
+   {
+    "name": "DWAYNE MOORE\nVice",
+    "count": 1,
+    "pages": [
+     33
+    ]
+   },
+   {
+    "name": "Treasurer\nBob Bossen\nVice",
+    "count": 1,
+    "pages": [
+     51
+    ]
+   },
+   {
+    "name": "CLUB OFFICERS",
+    "count": 1,
+    "pages": [
+     68
+    ]
+   },
+   {
+    "name": "PTA Officers",
+    "count": 1,
+    "pages": [
+     143
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00073",
+  "year": "2014-2015",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 8,
+    "pages": [
+     7,
+     17,
+     29,
+     29,
+     33,
+     40,
+     101,
+     127
+    ]
+   },
+   {
+    "name": "Cantor Jesse Holzer",
+    "count": 4,
+    "pages": [
+     11,
+     29,
+     101,
+     127
+    ]
+   },
+   {
+    "name": "Rabbi Jim Rogozen",
+    "count": 3,
+    "pages": [
+     90,
+     108,
+     127
+    ]
+   },
+   {
+    "name": "Rabbi Howard Tilman",
+    "count": 3,
+    "pages": [
+     101,
+     101,
+     127
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Curt Cady",
+    "count": 1,
+    "pages": [
+     26
+    ]
+   },
+   {
+    "name": "Ben Cady\nVice",
+    "count": 1,
+    "pages": [
+     26
+    ]
+   },
+   {
+    "name": "CLUB OFFICERS",
+    "count": 1,
+    "pages": [
+     39
+    ]
+   },
+   {
+    "name": "PTA Officers",
+    "count": 1,
+    "pages": [
+     93
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00074",
+  "year": "2015-2016",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 7,
+    "pages": [
+     11,
+     12,
+     25,
+     37,
+     41,
+     48,
+     135
+    ]
+   },
+   {
+    "name": "Cantor Jesse Holzer",
+    "count": 3,
+    "pages": [
+     12,
+     21,
+     135
+    ]
+   },
+   {
+    "name": "Rabbi Howard Tilman",
+    "count": 3,
+    "pages": [
+     19,
+     19,
+     135
+    ]
+   },
+   {
+    "name": "Rabbi Jim Rogozen\nHead",
+    "count": 3,
+    "pages": [
+     97,
+     97,
+     109
+    ]
+   },
+   {
+    "name": "Cantor Abraham Marton",
+    "count": 2,
+    "pages": [
+     6,
+     7
+    ]
+   },
+   {
+    "name": "Rabbi David\nGaffney",
+    "count": 2,
+    "pages": [
+     7,
+     12
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "CLUB OFFICERS",
+    "count": 1,
+    "pages": [
+     47
+    ]
+   },
+   {
+    "name": "TIKUN OLAM\nVICE",
+    "count": 1,
+    "pages": [
+     129
+    ]
+   },
+   {
+    "name": "PROGRAMMING\nVICE",
+    "count": 1,
+    "pages": [
+     129
+    ]
+   },
+   {
+    "name": "EDUCATION VICE",
+    "count": 1,
+    "pages": [
+     129
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00075",
+  "year": "2016-2017",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 5,
+    "pages": [
+     7,
+     17,
+     31,
+     35,
+     139
+    ]
+   },
+   {
+    "name": "Rabbi Jim Rogozen\nHead",
+    "count": 3,
+    "pages": [
+     105,
+     105,
+     114
+    ]
+   },
+   {
+    "name": "Rabbi Howard Tilman",
+    "count": 2,
+    "pages": [
+     9,
+     139
+    ]
+   },
+   {
+    "name": "Cantor Jesse Holzer",
+    "count": 2,
+    "pages": [
+     33,
+     139
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Engraving\nSigns\nRAY MOORE",
+    "count": 1,
+    "pages": [
+     38
+    ]
+   },
+   {
+    "name": "DWAYNE MOORE\nVice",
+    "count": 1,
+    "pages": [
+     38
+    ]
+   },
+   {
+    "name": "CLUB OFFICERS",
+    "count": 1,
+    "pages": [
+     43
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00076",
+  "year": "2017-2018",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 8,
+    "pages": [
+     50,
+     76,
+     79,
+     144,
+     182,
+     187,
+     190,
+     232
+    ]
+   },
+   {
+    "name": "Cantor Jesse Holzer",
+    "count": 5,
+    "pages": [
+     26,
+     86,
+     129,
+     182,
+     232
+    ]
+   },
+   {
+    "name": "Rabbi Shira Rosenblum",
+    "count": 3,
+    "pages": [
+     182,
+     187,
+     232
+    ]
+   },
+   {
+    "name": "Rabbi Howard Tilman",
+    "count": 2,
+    "pages": [
+     187,
+     232
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "Philip H. Bloom",
+    "count": 1,
+    "pages": [
+     9
+    ]
+   },
+   {
+    "name": "CLUB OFFICERS",
+    "count": 1,
+    "pages": [
+     221
+    ]
+   }
+  ]
+ },
+ {
+  "vid": "00077",
+  "year": "2018-2019",
+  "clergy_candidates": [
+   {
+    "name": "Rabbi Jonathan Lubliner",
+    "count": 6,
+    "pages": [
+     7,
+     15,
+     46,
+     78,
+     126,
+     143
+    ]
+   },
+   {
+    "name": "Rabbi Shira M.T. Rosenblum",
+    "count": 4,
+    "pages": [
+     9,
+     126,
+     131,
+     143
+    ]
+   },
+   {
+    "name": "Cantor Jesse Holzer",
+    "count": 4,
+    "pages": [
+     11,
+     35,
+     126,
+     143
+    ]
+   }
+  ],
+  "president_candidates": [
+   {
+    "name": "David Bielski",
+    "count": 1,
+    "pages": [
+     21
+    ]
+   },
+   {
+    "name": "CLUB OFFICERS",
+    "count": 1,
+    "pages": [
+     45
+    ]
+   },
+   {
+    "name": "Brian Bell\nVice",
+    "count": 1,
+    "pages": [
+     45
+    ]
+   }
+  ]
+ }
+]

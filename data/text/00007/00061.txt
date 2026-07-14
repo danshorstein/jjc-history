@@ -1,0 +1,325 @@
+0
+/
+0
+/
+0
+/
+/
+0
+/
+0
+/
+0
+/
+/
+0
+/
+/
+0
+/
+t
+0
+/
+9
+/
+0
+/
+0
+/
+)
+0
+i
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+9
+/
+0
+/
+0
+/
+9
+/
+0
+/
+9
+/
+0
+/
+9
+/
+0
+/
+9
+/
+0
+/
+0
+/
+9
+/
+0
+/
+0
+/
+0
+/
+9
+/
+9
+/
+0
+/
+0
+/
+0
+/
+9
+/
+9
+/
+9
+/
+9
+/
+9
+/
+9
+/
+9
+Affiliations
+Wolf, Edward ^ 10,16, 21
+Wolf, Mr. and Mrs. M. J. ^ 1, 2, 4, 10, 15, 15, 16, 21
+Wolf, Robert ^ 19
+Wolfe, Mr. and Mrs. Simon 5, 5, 11, 12, 15, 16
+Wolfson, Albert ^ 18
+Wolfson, Miss Edith ^ 9
+Wolfson, Miss Florence —• 9
+Wolfson, Mr. and Mrs. L. 2, 4, 10
+Wolfson, Mr. and Mrs. Louis E. 1, 5, 4, 10, 11, 12,
+15, 15, 16, 21, 22
+Wolfson, Mr. and Mrs. Morris ^ 5, 10, 11, 15, 16, 21
+Wolfson, Mr. and Mrs. Sam ^ 1, 5, 10, 11, 16, 22
+Wolfson, Mr. and Mrs. Saul 1, 2, 5, 5, 11, 16, 22
+Wolfson, Miss Sylvia ^ 9
+Wallach, Louis ^16
+Worman, Morris 18
+Worman, Mr. and Mrs. Sam 1, 2, 4, 10, 15, 14, 16, 21
+Wurn, Mr. and Mrs. A. — 1, 16
+Wurn, Mr. and Mrs. Lonnie 1, 5, 5, 11, 15, 16, 22
+Wyman, Mr. and Mrs. A. H. 1, 5, 5, 11, 12, 15, 15, 16
+Y
+* Yoffee, Mr. and Mrs. Ben 1, 2, 4, 6, 10, 11, 15, 15,
+16, 21
+Yoffee, Mrs. H. —16 ,4 ,2 ׳
+Young, Mr. and Mrs. Joseph /—■ 10, 15, 16
+z
+Zacharias, Mr. and Mrs. Herbert 5, 5, 11, 16
+Zacharias, P. W. 11, 15, 16
+Zalkin, Mr. and Mrs. Max -— 1, 16
+Zann, Alfred 16
+Zavon, Mrs. J. E. 1
+Zavon, Robert ,—16 ,15 ׳
+Zavon, Saul 16 ,15 ,15 ,10 —׳
+Zimmerman, Mr. and Mrs. Haskell 1, 2, 7, 10, 15,
+16, 21
+Zoslow, Mr. and Mrs. Alex 2, 10, 16, 21
+Zloten, Mr. and Mrs. Frank 16 ,10 ,5—׳
+Zundell, Mrs. M. >— 1
+Organizational
+Weiss, Mr. and Mrs. Max 1,4, 10, 14, 16
+Weiss, Mrs. Meyer * 1
+Weiss, Nathan ,— 17
+Weiss, Ruben 16
+Weiss, Mr. and Mrs. Sam 1, 5, 4, 5, 6, 11, 12, 15,
+15, 16
+Weiss, Mrs. S. —16 ,10 ,4 ׳
+Weiss, Mr. and Mrs. Sidney 21 ,16 ,14 ,15 ,10 —׳
+Weitz, Dave ^ 22
+Wernicoff, Mrs. Louis ^16׳־
+Wexler, George 15, 16
+Wexler, Mr. and Mrs. Michael 16 ,10 ,2 ,1 —׳
+Wilensky, Joseph —10 ׳
+Wilensky, Mrs. J. T. ^ 1, 2, 4, 16
+Wilensky, Miss Reba 8
+Wilfson, Miss Ruth ^ 5, 5, 11, 16
+W^ilk, Hans H. —* 16
+Wilkinson, Mrs. A. H. —* 5, 5, 11
+Wilson, Mr. and Mrs. Morris 4, 8, 10, 15, 15, 16, 21
+Witten, Mr. and Mrs. Barney S. —16 ,15 ,11 ,5 ,5 ׳
+Witten, Mr. and Mrs. Ben 2, 10, 15, 16, 21
+Wittten, Mr. and Mrs. Ike —* 1, 2, 4, 6, 10, 15, 15, 16,
+21, 22
+Witten, Isadore — 10, 15, 15, 16, 21
+Witten, Mrs. Joseph 1, 2, 4, 16
+Witten, Dr. and Mrs. Joe M. 21 ,16 ,15 ,10 ,2 ,1 ׳
+Witten, Mr. and Mrs. Joe 10, 15, 16
+Witten, L. 10
+Witten, Miss Libby 9, 16
+Witten, Mr. and Mrs. Louis 1, 2, 4, 10, 15, 16
+Witten, Mr. and Mrs. Max 1, 2, 4, 10, 15, 16, 21
+Witten, Mr. and Mrs. Morris H. — 1, 5, 4, 5, 6, 11, 12,
+15, 15, 16, 2
+Written, Dr. and Mrs. Sam 1, 2, 5, 4, 6, 10, 11, 15, 16,
+21, 22
+Witten, Samuel 19
+Wittels, Boris 21
+Wolf, Ben ^ 19
+Explanatory Code
+1
+Senior HadassaJi
+8
+Business and Professional
+15
+Young Men s Hebrew Ass n.
+2
+Daughters of Israel
+Women of Hadassah
+16
+Jacksonville Jewish Community
+3
+7 emple Sisterhood
+9
+Junior Hadassah
+Council
+4
+Ladies’ Hebrew Sheltering Aid
+10
+Jacksonville Jewish Center
+17
+Aleph Zadik Aleph
+5
+National Council of Jewish
+11
+Temple Ahavath Chesed
+18
+Boy Scouts of America, Troop 14
+Women
+12
+Temple Brotherhood
+19
+Boy Scouts of America ,Troop 12
+6
+Bnai Brith Women of
+13
+A. B. Weil Lodge No. 800,
+20
+Girl Scouts of America, Troop 2
+Jacksonville
+Bnai Brith
+21
+Jacksonville Zionist District
+7
+Pushaloter Aid Society
+14
+Progressive Credit Union
+22
+Jesters
+Page One Hundred One
+0
+/
+)
+0
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+9
+/
+9
+/
+9
+t
+9
+/
+0
+/
+0
+/
+9
+/
+9
+/
+9
+/
+0
+/
+0
+/
+9
+/
+0
+/
+0
+/
+9
+/
+0
+t
+0
+/
+9
+/
+0
+/
+9
+/
+0
+/
+0
+/
+9
+/
+0
+/
+0
+/
+0
+/
+0
+/
+0
+/
+9
+/
+9
+/
+)
+0
+/
+י^י

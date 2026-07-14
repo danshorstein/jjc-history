@@ -1,0 +1,156 @@
+[
+ {
+  "id": "gordon-presidency",
+  "title": "Was Robert J. Gordon ever president?",
+  "status": "resolved-probable",
+  "body": "The 2018-19 Past Presidents list prints 'Robert J. Gordon* 1953-1955.' But the 1999-2000 list does not include him at all; the 1953-54 yearbook's officers block shows Philip Selber as President with Gordon as Vice President; and Gordon's own 1975-76 memorial tribute says he 'formerly served as Treasurer, Chairman of the Board, Chairman of the Building Fund' \u2014 with no mention of the presidency. Verdict: the 2018-19 entry appears to be an error (possibly a scrambled column in print or in transcription).",
+  "citations": [
+   {
+    "vid": "00077",
+    "seq": 24
+   },
+   {
+    "vid": "00058",
+    "seq": 51
+   },
+   {
+    "vid": "00012",
+    "seq": 11
+   },
+   {
+    "vid": "00034",
+    "seq": 141
+   }
+  ]
+ },
+ {
+  "id": "moss-moscovitz",
+  "title": "'David Moss' or David Moscovitz?",
+  "status": "resolved-probable",
+  "body": "For the 1938-39 presidential term, the 1999-2000 list prints '*David Moss' while the 2018-19 list prints 'David Moskovitz 1923-1926; 1938-1939.' The 1938-39 yearbook itself shows DAVID MOSCOVITZ delivering the president's message. Verdict: 'David Moss' is almost certainly a truncation of Moscovitz (whose name is also spelled Moskovitz across sources). Note there was also a distinct 'Rudy Moss' family in the congregation, so the truncation matters.",
+  "citations": [
+   {
+    "vid": "00058",
+    "seq": 51
+   },
+   {
+    "vid": "00077",
+    "seq": 24
+   },
+   {
+    "vid": "00001",
+    "seq": 14
+   }
+  ]
+ },
+ {
+  "id": "shorstein-term",
+  "title": "Did Jack Shorstein's presidency end in 1973 or 1974?",
+  "status": "open",
+  "body": "The 1999-2000 list prints 'Jack Shorstein 1972-1973'; the 2018-19 list prints '1972-1974.' Both lists agree Charles Mizrahi served 1974-1976. Presidencies in this era began in January (per the 1968-69 president's message), so the discrepancy may be a counting convention \u2014 but the two printed sources genuinely disagree.",
+  "citations": [
+   {
+    "vid": "00058",
+    "seq": 51
+   },
+   {
+    "vid": "00077",
+    "seq": 24
+   },
+   {
+    "vid": "00027",
+    "seq": 16
+   }
+  ]
+ },
+ {
+  "id": "mislabeled-volume",
+  "title": "The yearbook cataloged under the wrong decade",
+  "status": "resolved",
+  "body": "UFDC catalogs volume 00075 as '2007-2008' \u2014 duplicating volume 00066. Its title page reads 'Jacksonville Jewish Center Yearbook 2016-2017 5777,' and its contents (Rabbi Tilman, Galinsky Academy, Crown Point Road address) confirm the later date. This archive treats it as 2016-17, filling what would otherwise be a gap in the run.",
+  "citations": [
+   {
+    "vid": "00075",
+    "seq": 1
+   },
+   {
+    "vid": "00075",
+    "seq": 5
+   }
+  ]
+ },
+ {
+  "id": "bud-shorstein",
+  "title": "Was Samuel 'Bud' Shorstein president \u2014 or chairman?",
+  "status": "resolved-probable",
+  "body": "The 2018-19 Past Presidents list prints \"Samuel 'Bud' Shorstein 1978-1980.\" But the 1999-2000 list does not include him, and the 1979-80 yearbook's officers photo caption reads 'Laurie DuBow - President; Samuel (Bud) Shorstein - Chairman of the Board.' Like Robert J. Gordon, he appears to have been a Chairman of the Board whom the 2018-19 list folded into the presidential succession. (Bud Shorstein was a prominent figure statewide; his service to the Center is extensively documented \u2014 just not, apparently, as its president.)",
+  "citations": [
+   {
+    "vid": "00077",
+    "seq": 25
+   },
+   {
+    "vid": "00058",
+    "seq": 51
+   },
+   {
+    "vid": "00038",
+    "seq": 258
+   }
+  ]
+ },
+ {
+  "id": "missing-1931-33",
+  "title": "Where are 1931, 1932, and 1933?",
+  "status": "open",
+  "body": "The collection runs continuously from 1926-27 to 2018-19 except for 1931-1933 \u2014 the depths of the Depression, when Jacksonville Jewish institutions were under severe financial strain. Were the yearbooks never published in those years, or published and lost? The collection itself does not say.",
+  "citations": []
+ },
+ {
+  "id": "lavilla-date",
+  "title": "1907 or 1909 for the LaVilla synagogue?",
+  "status": "open",
+  "body": "Wikipedia dates B'nai Israel's first synagogue at Jefferson & Duval to 1907; the ISJL encyclopedia says the congregation 'constructed a synagogue\u2026 by 1909.' Outside sources disagree; the yearbooks (which begin in 1926) cannot adjudicate.",
+  "citations": []
+ },
+ {
+  "id": "annex-date",
+  "title": "When was the classroom annex built \u2014 1957 or 1958?",
+  "status": "open",
+  "body": "The National Park Service article says the classroom annex was 'added 1957'; the 1958-59 yearbook photographs groundbreaking ceremonies for the 'New Classroom Building' on May 2, 1958. Possibly a planning-vs-construction distinction; the yearbook is primary evidence for the 1958 groundbreaking.",
+  "citations": [
+   {
+    "vid": "00017",
+    "seq": 27
+   }
+  ]
+ },
+ {
+  "id": "early-presidents",
+  "title": "The unverifiable early presidents (1901-1922)",
+  "status": "open",
+  "body": "Max Frank, H. Hammerman, Isaac Davis, and Elias H. Pilton appear in the printed Past-Presidents lists, but no yearbooks exist from their era to confirm terms (the 1926-27 volume does describe Pilton as president 'for nearly 20 years'). Newspaper archives or synagogue minutes would be needed to verify dates.",
+  "citations": [
+   {
+    "vid": "00058",
+    "seq": 51
+   },
+   {
+    "vid": "00002",
+    "seq": 29
+   }
+  ]
+ },
+ {
+  "id": "org-keyword-caveat",
+  "title": "A note on organization tracking",
+  "status": "methodology",
+  "body": "Organization timelines on this site are built from keyword appearances in OCR text. Some names are ambiguous \u2014 'Solomon Schechter' names both a national award the Center won in 1952 and the day school founded later; generic words like 'Basketball' or 'Library' can match incidental text. Citations link to the underlying pages so readers can judge context.",
+  "citations": [
+   {
+    "vid": "00087",
+    "seq": 29
+   }
+  ]
+ }
+]

@@ -1,0 +1,7 @@
+.DS_Store
+.claude/
+__pycache__/
+*.py[cod]
+
+# Local source archive; the extracted text and published site data are tracked.
+Jacksonville_Jewish_Center_Yearbooks_TXT.zip

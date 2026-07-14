@@ -1,0 +1,1471 @@
+{
+ "presidents": [
+  {
+   "name": "Max Frank",
+   "term": "1901\u20131904",
+   "start": 1901,
+   "end": 1904,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00002",
+     "seq": 28
+    }
+   ],
+   "note": "Founding president. The 1926-27 yearbook reproduces the 1901 charter itself: 'until the first election under the charter, shall be Max Frank, President'.",
+   "confidence": "verified"
+  },
+  {
+   "name": "H. Hammerman",
+   "term": "1905",
+   "start": 1905,
+   "end": 1905,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    }
+   ],
+   "note": "Predates the yearbooks; as printed in later lists.",
+   "confidence": "printed-list"
+  },
+  {
+   "name": "Isaac Davis",
+   "term": "1906\u20131910",
+   "start": 1906,
+   "end": 1910,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00002",
+     "seq": 29
+    }
+   ],
+   "note": "Predates the yearbooks, but the 1926-27 volume's history essay names 'Davis, President'.",
+   "confidence": "verified"
+  },
+  {
+   "name": "Elias H. Pilton",
+   "term": "1911\u20131922",
+   "start": 1911,
+   "end": 1922,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00002",
+     "seq": 28
+    },
+    {
+     "vid": "00002",
+     "seq": 30
+    }
+   ],
+   "note": "The 1926-27 yearbook notes he served 'for nearly 20 years' as president.",
+   "confidence": "verified"
+  },
+  {
+   "name": "David Moscovitz",
+   "term": "1923\u20131926",
+   "start": 1923,
+   "end": 1926,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00002",
+     "seq": 30
+    },
+    {
+     "vid": "00001",
+     "seq": 14
+    }
+   ],
+   "note": "Named as sitting president in the first yearbook (1926-27).",
+   "confidence": "verified"
+  },
+  {
+   "name": "Jacob Lapinsky",
+   "term": "1927",
+   "start": 1927,
+   "end": 1927,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    }
+   ],
+   "note": null,
+   "confidence": "printed-list"
+  },
+  {
+   "name": "Harry Finkelstein",
+   "term": "1927\u20131929",
+   "start": 1927,
+   "end": 1929,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00078",
+     "seq": 3
+    }
+   ],
+   "note": "Accepted the key at the 1928 building dedication; a 1975-76 retrospective calls him the Center's first president (i.e., first of the renamed Jacksonville Jewish Center).",
+   "confidence": "verified"
+  },
+  {
+   "name": "Max Rubin",
+   "term": "1930\u20131937",
+   "start": 1930,
+   "end": 1937,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00081",
+     "seq": 5
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "David Moscovitz",
+   "term": "1938\u20131939",
+   "start": 1938,
+   "end": 1939,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00002",
+     "seq": 30
+    },
+    {
+     "vid": "00001",
+     "seq": 14
+    }
+   ],
+   "note": "Second service. The 1999-2000 list prints this term as 'David Moss'; the 1938-39 yearbook's president page reads DAVID MOSCOVITZ. See Mysteries.",
+   "confidence": "verified"
+  },
+  {
+   "name": "Abe Newman",
+   "term": "1940\u20131943",
+   "start": 1940,
+   "end": 1943,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00005",
+     "seq": 2
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Harry Gendzier",
+   "term": "1944\u20131946",
+   "start": 1944,
+   "end": 1946,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00008",
+     "seq": 20
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Joseph Hackel",
+   "term": "1947\u20131948",
+   "start": 1947,
+   "end": 1948,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00085",
+     "seq": 14
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Harry Leff",
+   "term": "1949",
+   "start": 1949,
+   "end": 1949,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00009",
+     "seq": 7
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Philip Selber",
+   "term": "1950\u20131951",
+   "start": 1950,
+   "end": 1951,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00010",
+     "seq": 56
+    }
+   ],
+   "note": "First of three separate terms.",
+   "confidence": "verified"
+  },
+  {
+   "name": "Philip Bork",
+   "term": "1952",
+   "start": 1952,
+   "end": 1952,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    }
+   ],
+   "note": "As printed in both Past-Presidents lists; his name appears on the 1953-54 Center Committee page (00012).",
+   "confidence": "printed-list"
+  },
+  {
+   "name": "Philip Selber",
+   "term": "1953\u20131955",
+   "start": 1953,
+   "end": 1955,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00012",
+     "seq": 73
+    }
+   ],
+   "note": "Second term. The 1953-54 officers block shows Selber as President with Robert J. Gordon as Vice President/Chairman.",
+   "confidence": "verified"
+  },
+  {
+   "name": "Ralph Mizrahi",
+   "term": "1956\u20131957",
+   "start": 1956,
+   "end": 1957,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00015",
+     "seq": 12
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Burton Grossman",
+   "term": "1958\u20131960",
+   "start": 1958,
+   "end": 1960,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00017",
+     "seq": 19
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Judge Louis Safer",
+   "term": "1961\u20131962",
+   "start": 1961,
+   "end": 1962,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00020",
+     "seq": 15
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Philip Selber",
+   "term": "1963\u20131965",
+   "start": 1963,
+   "end": 1965,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00022",
+     "seq": 19
+    }
+   ],
+   "note": "Third term. His 1963-64 message: 'When I wrote my first message as President some 12 years ago\u2026'. The 2018-19 printed list scrambles this era (see Mysteries: Robert J. Gordon).",
+   "confidence": "verified"
+  },
+  {
+   "name": "Jack Becker",
+   "term": "1966\u20131967",
+   "start": 1966,
+   "end": 1967,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00025",
+     "seq": 18
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Nathan Freidlin",
+   "term": "1968\u20131969",
+   "start": 1968,
+   "end": 1969,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00027",
+     "seq": 16
+    }
+   ],
+   "note": "Spelled FREIDLIN in the 1968-69 yearbook (signature and installation photo, March 10, 1968); later Past-Presidents lists print 'Friedlin'. His 1968-69 message notes the 'long line of distinguished Presidents\u2026 for the past 67 years' \u2014 corroborating the 1901 founding. Presidencies began in January in this era.",
+   "confidence": "verified"
+  },
+  {
+   "name": "Wilbur Margol",
+   "term": "1970\u20131971",
+   "start": 1970,
+   "end": 1971,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00029",
+     "seq": 17
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Jack Shorstein",
+   "term": "1972\u20131974",
+   "start": 1972,
+   "end": 1974,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00031",
+     "seq": 246
+    }
+   ],
+   "note": "The 1999-2000 list prints 1972-1973, the 2018-19 list 1972-1974; January-start terms make both readings possible. See Mysteries.",
+   "confidence": "verified"
+  },
+  {
+   "name": "Charles Mizrahi",
+   "term": "1974\u20131976",
+   "start": 1974,
+   "end": 1976,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00033",
+     "seq": 13
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Sheldon Gendzier",
+   "term": "1976\u20131978",
+   "start": 1976,
+   "end": 1978,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00035",
+     "seq": 33
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Lawrence DuBow",
+   "term": "1978\u20131980",
+   "start": 1978,
+   "end": 1980,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 24,
+     "note": "Past Presidents list (part 1), 2018-19 yearbook"
+    },
+    {
+     "vid": "00038",
+     "seq": 228
+    }
+   ],
+   "note": "Known as 'Laurie' in the yearbooks; his installation photos and signed President's Message confirm the term.",
+   "confidence": "verified"
+  },
+  {
+   "name": "Nathan Krestul",
+   "term": "1980\u20131982",
+   "start": 1980,
+   "end": 1982,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00039",
+     "seq": 5
+    }
+   ],
+   "note": "A Nathan Krestul served as assistant cantor of the Junior Congregation in 1941-42 (00005 seq 10) \u2014 probably the same person four decades earlier, not asserted.",
+   "confidence": "verified"
+  },
+  {
+   "name": "Sol Proctor",
+   "term": "1982\u20131984",
+   "start": 1982,
+   "end": 1984,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00042",
+     "seq": 6
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Dr. Joseph Honigman",
+   "term": "1984\u20131986",
+   "start": 1984,
+   "end": 1986,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00043",
+     "seq": 22
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Eugene Kornblum",
+   "term": "1986\u20131988",
+   "start": 1986,
+   "end": 1988,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00046",
+     "seq": 70
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Marsha Pollock",
+   "term": "1988\u20131990",
+   "start": 1988,
+   "end": 1990,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00048",
+     "seq": 203
+    }
+   ],
+   "note": "First woman in the Center's published presidential succession. Her signed President's Message appears in the 1989-90 yearbook.",
+   "confidence": "verified"
+  },
+  {
+   "name": "Jeffery Morris",
+   "term": "1990\u20131993",
+   "start": 1990,
+   "end": 1993,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00049",
+     "seq": 103
+    }
+   ],
+   "note": "Missing from the OCR of the 2018-19 list; restored from the 1999-2000 list.",
+   "confidence": "verified"
+  },
+  {
+   "name": "Stuart Hecht",
+   "term": "1993\u20131996",
+   "start": 1993,
+   "end": 1996,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    }
+   ],
+   "note": "Missing from the OCR of the 2018-19 list; restored from the 1999-2000 list.",
+   "confidence": "printed-list"
+  },
+  {
+   "name": "Evan Yegelwel",
+   "term": "1996\u20131998",
+   "start": 1996,
+   "end": 1998,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 22,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00055",
+     "seq": 11
+    }
+   ],
+   "note": "Chairman of the Board on the 1998-2000 officers page.",
+   "confidence": "verified"
+  },
+  {
+   "name": "Mark Shorstein",
+   "term": "1998\u20132000",
+   "start": 1998,
+   "end": 2000,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00057",
+     "seq": 18
+    }
+   ],
+   "note": "Named President on the 1998-2000 Center Officers page. As a teenager he was president of Jacksonville USY in 1972-73 (00032, seq 171 area) \u2014 a 26-year arc from youth leader to congregation president.",
+   "confidence": "verified"
+  },
+  {
+   "name": "Michael Shorstein",
+   "term": "2000\u20132002",
+   "start": 2000,
+   "end": 2002,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00059",
+     "seq": 40
+    },
+    {
+     "vid": "00060",
+     "seq": 53
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Philip Bloom",
+   "term": "2002\u20132004",
+   "start": 2002,
+   "end": 2004,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00061",
+     "seq": 162
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Seeman Zimmerman",
+   "term": "2004\u20132006",
+   "start": 2004,
+   "end": 2006,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00063",
+     "seq": 3
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Sandy Zimmerman",
+   "term": "2006\u20132008",
+   "start": 2006,
+   "end": 2008,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00065",
+     "seq": 27
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Dr. Mitchell Levine",
+   "term": "2008\u20132010",
+   "start": 2008,
+   "end": 2010,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00067",
+     "seq": 19
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Michael DuBow",
+   "term": "2010\u20132013",
+   "start": 2010,
+   "end": 2013,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00071",
+     "seq": 25
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Fred Pozin",
+   "term": "2013\u20132015",
+   "start": 2013,
+   "end": 2015,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00072",
+     "seq": 106
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "Alyse Nathans",
+   "term": "2015\u20132017",
+   "start": 2015,
+   "end": 2017,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 25,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00074",
+     "seq": 27
+    }
+   ],
+   "note": null,
+   "confidence": "verified"
+  },
+  {
+   "name": "David Bielski",
+   "term": "2017\u20132019+",
+   "start": 2017,
+   "end": 2019,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 51,
+     "note": "Past Presidents list, 1999-2000 yearbook"
+    },
+    {
+     "vid": "00077",
+     "seq": 21,
+     "note": "Past Presidents list (part 2), 2018-19 yearbook"
+    },
+    {
+     "vid": "00076",
+     "seq": 68
+    }
+   ],
+   "note": "Named President on the 2018-19 Executive Board page (the last yearbook in the collection).",
+   "confidence": "verified"
+  }
+ ],
+ "clergy": [
+  {
+   "name": "Rev. Benjamin Safer",
+   "role": "Spiritual leader, B'nai Israel",
+   "from": 1901,
+   "to": 1930,
+   "citations": [
+    {
+     "vid": "00002",
+     "seq": 29
+    }
+   ],
+   "note": "Arrived c.1901-02 from Lithuania; never formally ordained, hence 'Reverend'. Also the city's first kosher butcher and mohel. Led the downtown B'nai Israel branch until 1930. (Outside research: ISJL.)",
+   "research": [
+    {
+     "title": "ISJL \u2014 Jacksonville, Florida Encyclopedia (Goldring/Woldenberg Institute of Southern Jewish Life)",
+     "url": "https://www.isjl.org/florida-jacksonville-encyclopedia.html"
+    }
+   ]
+  },
+  {
+   "name": "Rabbi Samuel Benjamin",
+   "role": "Rabbi",
+   "from": 1926,
+   "to": 1938,
+   "citations": [
+    {
+     "vid": "00002",
+     "seq": 29
+    },
+    {
+     "vid": "00078",
+     "seq": 6
+    }
+   ],
+   "note": "Elected April 1, 1926; a Jewish Theological Seminary graduate who brought Conservative Judaism and the synagogue-center model, leading the congregation into its 1928 Center building. End of tenure approximate (attested through the late 1930s).",
+   "research": [
+    {
+     "title": "ISJL \u2014 Jacksonville, Florida Encyclopedia (Goldring/Woldenberg Institute of Southern Jewish Life)",
+     "url": "https://www.isjl.org/florida-jacksonville-encyclopedia.html"
+    },
+    {
+     "title": "Jacksonville Jewish Center \u2014 Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jacksonville_Jewish_Center"
+    }
+   ]
+  },
+  {
+   "name": "Rabbi Morris D. Margolis",
+   "role": "Rabbi",
+   "from": 1935,
+   "to": 1944,
+   "citations": [
+    {
+     "vid": "00081",
+     "seq": 5
+    },
+    {
+     "vid": "00004",
+     "seq": 12
+    }
+   ],
+   "note": "Attested in yearbooks from 1935-36 through 1943. Tenure bounds approximate.",
+   "research": []
+  },
+  {
+   "name": "Rabbi David H. Panitz",
+   "role": "Rabbi",
+   "from": 1945,
+   "to": 1947,
+   "citations": [
+    {
+     "vid": "00008",
+     "seq": 12
+    }
+   ],
+   "note": "Attested 1945-1947. Tenure bounds approximate.",
+   "research": []
+  },
+  {
+   "name": "Rabbi Sanders A. Tofield",
+   "role": "Rabbi",
+   "from": 1947,
+   "to": 1960,
+   "citations": [
+    {
+     "vid": "00086",
+     "seq": 21
+    },
+    {
+     "vid": "00015",
+     "seq": 10
+    }
+   ],
+   "note": "Led the Center 1947 until his death in 1960; prominent in the Rabbinical Assembly; under his leadership the Center won the national Solomon Schechter Award for youth work (1952) and held Jacksonville's first Bat Mitzvah ceremonies. (Research: ISJL, NPS.)",
+   "research": [
+    {
+     "title": "ISJL \u2014 Jacksonville, Florida Encyclopedia (Goldring/Woldenberg Institute of Southern Jewish Life)",
+     "url": "https://www.isjl.org/florida-jacksonville-encyclopedia.html"
+    },
+    {
+     "title": "Jacksonville Jewish Center \u2014 U.S. National Park Service",
+     "url": "https://www.nps.gov/articles/000/jacksonville-jewish-center.htm"
+    }
+   ]
+  },
+  {
+   "name": "Cantor Abraham Marton",
+   "role": "Cantor",
+   "from": 1946,
+   "to": 1980,
+   "citations": [
+    {
+     "vid": "00084",
+     "seq": 41
+    },
+    {
+     "vid": "00038",
+     "seq": 56
+    }
+   ],
+   "note": "One of the longest clergy tenures in Center history \u2014 attested continuously from 1946-47 through 1979-80, with emeritus and memorial mentions into the 2010s.",
+   "research": []
+  },
+  {
+   "name": "Rabbi Moshe V. Goldblum",
+   "role": "Rabbi",
+   "from": 1961,
+   "to": 1963,
+   "citations": [
+    {
+     "vid": "00020",
+     "seq": 11
+    }
+   ],
+   "note": "Attested 1961-1963. Tenure bounds approximate.",
+   "research": []
+  },
+  {
+   "name": "Rabbi Arnold S. Turetsky",
+   "role": "Rabbi",
+   "from": 1963,
+   "to": 1967,
+   "citations": [
+    {
+     "vid": "00023",
+     "seq": 12
+    }
+   ],
+   "note": "Attested 1963-1967. Tenure bounds approximate.",
+   "research": []
+  },
+  {
+   "name": "Rabbi Jerome Lipnick",
+   "role": "Rabbi",
+   "from": 1966,
+   "to": 1970,
+   "citations": [
+    {
+     "vid": "00026",
+     "seq": 14
+    }
+   ],
+   "note": "Attested 1966-1970. Tenure bounds approximate.",
+   "research": []
+  },
+  {
+   "name": "Rabbi Dov Peretz Elkins",
+   "role": "Rabbi",
+   "from": 1971,
+   "to": 1973,
+   "citations": [
+    {
+     "vid": "00030",
+     "seq": 5
+    }
+   ],
+   "note": "Attested 1971-1973; a prolific author within the Conservative movement.",
+   "research": []
+  },
+  {
+   "name": "Rabbi David Gaffney",
+   "role": "Rabbi",
+   "from": 1973,
+   "to": 2005,
+   "citations": [
+    {
+     "vid": "00032",
+     "seq": 9
+    },
+    {
+     "vid": "00058",
+     "seq": 3
+    }
+   ],
+   "note": "Attested from 1973-74 (already leading a Soviet-Jewry discussion for the Charles Palot Club) through the 2000s; senior rabbi for roughly three decades, later emeritus (mentions continue to 2015-16).",
+   "research": []
+  },
+  {
+   "name": "Rabbi Dov Kentof",
+   "role": "Rabbi, Director of Education & Youth",
+   "from": 1980,
+   "to": 2000,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 3
+    }
+   ],
+   "note": "The 1999-2000 yearbook is dedicated to him 'who, for 20 years, has worked tirelessly on behalf of the youth and families of our congregation' \u2014 with a commemorative section of tributes.",
+   "research": []
+  },
+  {
+   "name": "Cantor Joel Fox",
+   "role": "Cantor",
+   "from": 1993,
+   "to": 1996,
+   "citations": [
+    {
+     "vid": "00052",
+     "seq": 16
+    }
+   ],
+   "note": "Attested 1993-1996. Tenure bounds approximate.",
+   "research": []
+  },
+  {
+   "name": "Cantor Aron Heller",
+   "role": "Cantor",
+   "from": 1999,
+   "to": 2002,
+   "citations": [
+    {
+     "vid": "00058",
+     "seq": 3
+    }
+   ],
+   "note": "Attested 1999-2002. Tenure bounds approximate.",
+   "research": []
+  },
+  {
+   "name": "Rabbi Stephen Grundfast",
+   "role": "Rabbi",
+   "from": 2002,
+   "to": 2004,
+   "citations": [
+    {
+     "vid": "00061",
+     "seq": 6
+    }
+   ],
+   "note": "Attested 2002-2004, between Rabbi Gaffney's senior tenure and Rabbi Lubliner's arrival.",
+   "research": []
+  },
+  {
+   "name": "Rabbi Jonathan Lubliner",
+   "role": "Senior Rabbi",
+   "from": 2004,
+   "to": 2019,
+   "citations": [
+    {
+     "vid": "00063",
+     "seq": 3
+    },
+    {
+     "vid": "00077",
+     "seq": 5
+    }
+   ],
+   "note": "Attested from 2004-05 through the final yearbook in the collection (2018-19); still senior rabbi today. (Research: Wikipedia.)",
+   "research": [
+    {
+     "title": "Jacksonville Jewish Center \u2014 Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jacksonville_Jewish_Center"
+    }
+   ]
+  },
+  {
+   "name": "Cantor Yitzhak Ben-Moshe",
+   "role": "Cantor",
+   "from": 2006,
+   "to": 2008,
+   "citations": [
+    {
+     "vid": "00065",
+     "seq": 108
+    }
+   ],
+   "note": "Attested 2006-2008. Tenure bounds approximate.",
+   "research": []
+  },
+  {
+   "name": "Hazzan Jesse Holzer",
+   "role": "Hazzan (Cantor)",
+   "from": 2008,
+   "to": 2019,
+   "citations": [
+    {
+     "vid": "00067",
+     "seq": 7
+    },
+    {
+     "vid": "00077",
+     "seq": 5
+    }
+   ],
+   "note": "Attested 2008-09 through 2018-19.",
+   "research": []
+  },
+  {
+   "name": "Rabbi Jesse Olitzky",
+   "role": "Associate Rabbi",
+   "from": 2011,
+   "to": 2014,
+   "citations": [
+    {
+     "vid": "00070",
+     "seq": 5
+    }
+   ],
+   "note": "Attested 2011-2014.",
+   "research": []
+  },
+  {
+   "name": "Rabbi Howard Tilman",
+   "role": "Associate Rabbi",
+   "from": 2014,
+   "to": 2018,
+   "citations": [
+    {
+     "vid": "00073",
+     "seq": 9
+    },
+    {
+     "vid": "00075",
+     "seq": 5
+    }
+   ],
+   "note": "Attested 2014-2018.",
+   "research": []
+  }
+ ]
+}
