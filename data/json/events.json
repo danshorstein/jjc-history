@@ -28,35 +28,40 @@
  {
   "year": 1901,
   "title": "Hebrew Orthodox Congregation B'nai Israel incorporated",
-  "body": "Five Orthodox families, grown to about forty people, incorporate B'nai Israel on December 6, 1901. Max Frank serves as first president; Rev. Benjamin Safer of Pu\u0161alotas, Lithuania arrives as spiritual leader \u2014 and the city's first kosher butcher and mohel. Many founding families (Finkelsteins, Schemers, Slotts) came from the same Lithuanian town.",
+  "body": "Five Orthodox families, by then numbering about forty families, formally organize B'nai Israel. The charter was approved on December 5 and recorded the next day, December 6. Max Frank is named first president; the incorporators include Samuel Controvitz, E. H. Pilton, Morris Wexler, A. Hirsch, Alex Ossinsky, and Louis Rosenstein. The Center's anniversary timeline identifies many of the families as immigrants from Pu\u0161alotas, Lithuania.",
   "kind": "both",
   "citations": [
    {
-    "vid": "00077",
-    "seq": 24
+    "vid": "00002",
+    "seq": 28
    }
   ],
   "research": [
    {
-    "title": "ISJL \u2014 Jacksonville, Florida Encyclopedia (Goldring/Woldenberg Institute of Southern Jewish Life)",
-    "url": "https://www.isjl.org/florida-jacksonville-encyclopedia.html"
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
    },
    {
-    "title": "Jacksonville Jewish Center \u2014 Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Jacksonville_Jewish_Center"
+    "title": "ISJL \u2014 Jacksonville, Florida Encyclopedia (Goldring/Woldenberg Institute of Southern Jewish Life)",
+    "url": "https://www.isjl.org/florida-jacksonville-encyclopedia.html"
    }
   ]
  },
  {
   "year": 1907,
   "title": "A synagogue in LaVilla",
-  "body": "B'nai Israel erects its first synagogue at Jefferson and Duval Streets in the LaVilla neighborhood, heart of the immigrant community. (Sources differ: Wikipedia says 1907, ISJL says by 1909 \u2014 see Mysteries.)",
-  "kind": "research",
-  "citations": [],
+  "body": "With membership at seventy-five, B'nai Israel begins building at Jefferson and Duval Streets in LaVilla. The 1907 building campaign and a 1909 completion/dedication describe successive stages of the same project, rather than competing dates.",
+  "kind": "both",
+  "citations": [
+   {
+    "vid": "00002",
+    "seq": 28
+   }
+  ],
   "research": [
    {
-    "title": "Jacksonville Jewish Center \u2014 Wikipedia",
-    "url": "https://en.wikipedia.org/wiki/Jacksonville_Jewish_Center"
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
    },
    {
     "title": "ISJL \u2014 Jacksonville, Florida Encyclopedia (Goldring/Woldenberg Institute of Southern Jewish Life)",
@@ -106,9 +111,9 @@
  },
  {
   "year": 1927,
-  "title": "The first Year Book",
-  "body": "'In this first attempt to produce a Year Book for the Jacksonville Jewish Center\u2026' \u2014 the 1926-27 (5687) volume opens a tradition that will continue for over ninety years.",
-  "kind": "yearbook",
+  "title": "A new Center, and a surviving Year Book",
+  "body": "The congregation purchases land at Third and Silver Streets and adopts the Jacksonville Jewish Center identity. Its 1926-27 (5687) volume calls itself a 'first attempt to produce a Year Book.' The 125th-anniversary timeline adds an important qualification: earlier editions dating to 1902 were largely congregational directories, while it identifies 1935 as the first yearbook in the form recognized today.",
+  "kind": "both",
   "citations": [
    {
     "vid": "00002",
@@ -116,10 +121,15 @@
    },
    {
     "vid": "00002",
-    "seq": 24
+    "seq": 30
    }
   ],
-  "research": []
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
  },
  {
   "year": 1928,
@@ -161,10 +171,6 @@
    {
     "vid": "00001",
     "seq": 44
-   },
-   {
-    "vid": "00001",
-    "seq": 44
    }
   ],
   "research": []
@@ -201,6 +207,19 @@
    {
     "title": "Jacksonville Jewish Center \u2014 U.S. National Park Service",
     "url": "https://www.nps.gov/articles/000/jacksonville-jewish-center.htm"
+   }
+  ]
+ },
+ {
+  "year": 1948,
+  "title": "The first Bat Mitzvah ceremony",
+  "body": "On April 9, Bryna Lee Datz and Judy Herschaft participate in the Center's first Bat Mitzvah ceremony, held during a late Friday-evening program \u2014 an early milestone in women's participation in congregational life.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
    }
   ]
  },
@@ -261,37 +280,20 @@
   ]
  },
  {
-  "year": 1957,
-  "title": "A day school takes root",
-  "body": "The Foundation School (attested from 1957) grows into the Solomon Schechter Day School \u2014 by 1965-66 a full graded school, 1st through 5th grade, alongside kindergarten, Hebrew School, and Sunday School.",
-  "kind": "yearbook",
+  "year": 1961,
+  "title": "The Foundation School opens",
+  "body": "The Center opens the Foundation School with one first-grade class. In 1966 it is renamed the Solomon Schechter Day School; the 1965-66 yearbook documents the expansion through fifth grade. This corrects the archive's earlier use of the first available yearbook evidence as a founding date.",
+  "kind": "both",
   "citations": [
    {
     "vid": "00024",
     "seq": 98
    }
   ],
-  "research": []
- },
- {
-  "year": 1961,
-  "title": "First Bat Mitzvah ceremonies",
-  "body": "Under Rabbi Tofield's leadership the Center pioneers Bat Mitzvah in Jacksonville; by 1963-64 the yearbook's lifecycle section is headed 'Bar and Bas Mitzvahs.' The 2007-08 yearbook cover essay traces the whole arc: 'In my grandmother's day, women wore lace scarves in shul\u2026 Now, the properly dressed Bat Mitzvah wears a kippah and talit and even wraps tefillin.'",
-  "kind": "both",
-  "citations": [
-   {
-    "vid": "00022",
-    "seq": 9
-   },
-   {
-    "vid": "00066",
-    "seq": 5
-   }
-  ],
   "research": [
    {
-    "title": "Jacksonville Jewish Center \u2014 U.S. National Park Service",
-    "url": "https://www.nps.gov/articles/000/jacksonville-jewish-center.htm"
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
    }
   ]
  },
@@ -305,6 +307,32 @@
    {
     "title": "ISJL \u2014 Jacksonville, Florida Encyclopedia (Goldring/Woldenberg Institute of Southern Jewish Life)",
     "url": "https://www.isjl.org/florida-jacksonville-encyclopedia.html"
+   }
+  ]
+ },
+ {
+  "year": 1972,
+  "title": "Rabbi David Gaffney begins a 29-year rabbinate",
+  "body": "Rabbi David Gaffney joins the Center, beginning its longest rabbinate. Across twenty-nine years, he leads an expansion of early-childhood, Hebrew high-school, day-school, youth, adult-education, and cultural offerings.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
+ },
+ {
+  "year": 1973,
+  "title": "Groundbreaking for the Mandarin campus",
+  "body": "On September 16, the Center breaks ground for the new synagogue complex. In 1976, a procession carries the Torah scrolls from Third and Silver to the new Mandarin home.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
    }
   ]
  },
@@ -331,17 +359,35 @@
   ]
  },
  {
-  "year": 1980,
-  "title": "Rabbi Dov Kentof arrives",
-  "body": "For the next twenty years he leads education and youth; the 1999-2000 yearbook is dedicated to him, with a cover portrait painted by congregant artist Blanche Slott.",
-  "kind": "yearbook",
+  "year": 1978,
+  "title": "Rabbi Dov Kentof joins the Center",
+  "body": "Rabbi Dov Kentof is hired as Youth and Education Director. The 1999-2000 yearbook, dedicated to him, confirms two decades of service; the anniversary timeline corrects the previous 1980 arrival date.",
+  "kind": "both",
   "citations": [
    {
     "vid": "00058",
     "seq": 3
    }
   ],
-  "research": []
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
+ },
+ {
+  "year": 1982,
+  "title": "Ami Shamir's Ark is installed",
+  "body": "A major building expansion includes the installation of the Ami Shamir-designed Ark in the sanctuary.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
  },
  {
   "year": 1988,
@@ -357,17 +403,61 @@
   "research": []
  },
  {
+  "year": 1996,
+  "title": "Performing Artists Series begins",
+  "body": "Debbie Friedman inaugurates the Jacksonville Jewish Center's Performing Artists Series, beginning a decade-plus program of Jewish music, culture, and artistry.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
+ },
+ {
+  "year": 1999,
+  "title": "Rabbi Kentof retires; a school endowment begins",
+  "body": "Rabbi Dov Kentof retires after two decades of youth and education work. The Esther Galinsky bequest also establishes the foundation for the Galinsky Academy's educational programs.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
+ },
+ {
   "year": 2001,
   "title": "Centennial",
-  "body": "The 2001-02 yearbook celebrates 100 years: 'Jacksonville Jewish Center Centennial Celebration 1901-2001.'",
-  "kind": "yearbook",
+  "body": "The 2001-02 yearbook celebrates 100 years: 'Jacksonville Jewish Center Centennial Celebration 1901-2001.' That June, the congregation also honors Rabbi Gaffney as he steps down after twenty-nine years and establishes the Rabbi David Gaffney Leadership in Education Award.",
+  "kind": "both",
   "citations": [
    {
     "vid": "00060",
     "seq": 5
    }
   ],
-  "research": []
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
+ },
+ {
+  "year": 2004,
+  "title": "Rabbi Jonathan Lubliner arrives",
+  "body": "Rabbi Jonathan Lubliner becomes the Center's spiritual leader, beginning a period of renewed energy, scholarship, and community engagement.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
  },
  {
   "year": 2005,
@@ -383,12 +473,29 @@
   "research": []
  },
  {
-  "year": 2011,
-  "title": "Fire in Springfield; a family reunited",
-  "body": "Fire damages the long-vacant original building at Third & Silver (later demolished). The same year, Beth Shalom Congregation re-merges with the Center.",
+  "year": 2007,
+  "title": "The Center adopts egalitarian practice",
+  "body": "After a fall 2006 study process, the Board approves egalitarian practice in January. At the February 17 inaugural service, Tania Nogelwell leads Shacharit and Lois Tompkins davens Musaf and is counted in the minyan.",
   "kind": "research",
   "citations": [],
   "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
+ },
+ {
+  "year": 2011,
+  "title": "Fire in Springfield; a family reunited",
+  "body": "Fire damages the long-vacant original building at Third & Silver (later demolished). The same year, Beth Shalom Congregation re-merges with the Center and brings a Holocaust Torah \u2014 a lasting symbol of remembrance and continuity.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   },
    {
     "title": "Jacksonville Jewish Center \u2014 Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Jacksonville_Jewish_Center"
@@ -396,6 +503,45 @@
    {
     "title": "ISJL \u2014 Jacksonville, Florida Encyclopedia (Goldring/Woldenberg Institute of Southern Jewish Life)",
     "url": "https://www.isjl.org/florida-jacksonville-encyclopedia.html"
+   }
+  ]
+ },
+ {
+  "year": 2017,
+  "title": "The Center's first female rabbi",
+  "body": "Assistant Rabbi Shira Rosenblum joins the Center as its first female rabbi.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
+ },
+ {
+  "year": 2018,
+  "title": "The preschool is renamed for Laurie DuBow",
+  "body": "The Center celebrates 75 years of its preschool program. Previously renamed DuBow Preschool, it is renamed Laurie Preschool in 2024 to honor Laurie DuBow, former congregation president and family patriarch.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
+ },
+ {
+  "year": 2020,
+  "title": "Livestream worship expands access",
+  "body": "During the COVID-19 epidemic, the Center installs a livestream system that enables members to join services and lifecycle moments from home; the system remains an accessibility and connection tool beyond the pandemic.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
    }
   ]
  },
@@ -413,6 +559,32 @@
    {
     "title": "Jacksonville Jewish Center \u2014 Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Jacksonville_Jewish_Center"
+   }
+  ]
+ },
+ {
+  "year": 2023,
+  "title": "Nashuvah High Holiday service begins",
+  "body": "The Center introduces Nashuvah, an alternative High Holiday service offered during Rosh Hashanah and Yom Kippur alongside the sanctuary service.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
+ },
+ {
+  "year": 2026,
+  "title": "125 years",
+  "body": "On January 31, 2026, the Jacksonville Jewish Center celebrates its 125th anniversary \u2014 an occasion honoring generations of faith, resilience, learning, connection, and communal responsibility.",
+  "kind": "research",
+  "citations": [],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
    }
   ]
  }

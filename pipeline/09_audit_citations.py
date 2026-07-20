@@ -115,7 +115,7 @@ def main() -> None:
         1946: [["River Garden"], ["1946"]], 1947: [["Tofield"]],
         1952: [["Schechter"]], 1958: [["bombing"]],
         1957: [["Schechter Day School"], ["Foundation School"]],
-        1961: [["Bas Mitzvah"], ["kippah"]], 1976: [["pivot"], ["San Jose"]],
+        1961: [["Foundation School"]], 1976: [["pivot"], ["San Jose"]],
         1980: [["Kentof"]], 1988: [["Pollock"]], 2001: [["Centennial"]],
         2005: [["Galinsky"]],
     }

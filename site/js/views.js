@@ -406,7 +406,7 @@ export async function viewMysteries(main) {
       badge,
       el("h3", {}, m.title),
       el("p", {}, m.body),
-      await chipsFor(m.citations || [])));
+      await chipsFor(m.citations || [], m.research || [])));
   }
   main.append(cards);
 }

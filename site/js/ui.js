@@ -36,10 +36,14 @@ export async function citeChip(cit, highlight) {
 }
 
 export function researchChip(src) {
+  const label = src.title.split("—")[0].trim();
+  if (!src.url) {
+    return el("span", { class: "chip chip-research", title: src.note || src.title }, label);
+  }
   return el("a", {
     class: "chip chip-research", href: src.url, target: "_blank",
     rel: "noopener", title: src.title,
-  }, src.title.split("—")[0].trim());
+  }, label);
 }
 
 export async function chipsFor(citations = [], research = [], highlight) {

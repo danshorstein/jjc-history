@@ -21,7 +21,8 @@
     "vid": "00034",
     "seq": 141
    }
-  ]
+  ],
+  "research": []
  },
  {
   "id": "moss-moscovitz",
@@ -41,7 +42,8 @@
     "vid": "00001",
     "seq": 14
    }
-  ]
+  ],
+  "research": []
  },
  {
   "id": "shorstein-term",
@@ -61,7 +63,8 @@
     "vid": "00027",
     "seq": 16
    }
-  ]
+  ],
+  "research": []
  },
  {
   "id": "mislabeled-volume",
@@ -77,7 +80,8 @@
     "vid": "00075",
     "seq": 5
    }
-  ]
+  ],
+  "research": []
  },
  {
   "id": "bud-shorstein",
@@ -97,21 +101,52 @@
     "vid": "00038",
     "seq": 258
    }
-  ]
+  ],
+  "research": []
  },
  {
   "id": "missing-1931-33",
   "title": "Where are 1931, 1932, and 1933?",
   "status": "open",
   "body": "The collection runs continuously from 1926-27 to 2018-19 except for 1931-1933 \u2014 the depths of the Depression, when Jacksonville Jewish institutions were under severe financial strain. Were the yearbooks never published in those years, or published and lost? The collection itself does not say.",
-  "citations": []
+  "citations": [],
+  "research": []
  },
  {
   "id": "lavilla-date",
   "title": "1907 or 1909 for the LaVilla synagogue?",
+  "status": "resolved",
+  "body": "The dates describe different phases. The 1926-27 historical essay says that in 1907 the growing congregation began erecting its Jefferson & Duval synagogue; the Center's 125th-anniversary timeline says the building was completed and dedicated in 1909. The site now presents both stages rather than treating them as a contradiction.",
+  "citations": [
+   {
+    "vid": "00002",
+    "seq": 28
+   }
+  ],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
+ },
+ {
+  "id": "first-yearbook",
+  "title": "What was the first Jacksonville Jewish Center yearbook?",
   "status": "open",
-  "body": "Wikipedia dates B'nai Israel's first synagogue at Jefferson & Duval to 1907; the ISJL encyclopedia says the congregation 'constructed a synagogue\u2026 by 1909.' Outside sources disagree; the yearbooks (which begin in 1926) cannot adjudicate.",
-  "citations": []
+  "body": "The surviving 1926-27 volume calls itself the Center's 'first attempt to produce a Year Book.' The 125th-anniversary timeline says earlier editions dated to 1902 were primarily congregational directories, and identifies 1935 as the first yearbook in the form recognized today. These descriptions may use 'yearbook' differently; until the earlier editions are located, the archive treats 1926-27 as the first surviving full Year Book in its collection rather than the first publication of any kind.",
+  "citations": [
+   {
+    "vid": "00002",
+    "seq": 5
+   }
+  ],
+  "research": [
+   {
+    "title": "JJC 125th Anniversary History Timeline (2026)",
+    "note": "Institutional anniversary brochure; photographs supplied to this project on July 19, 2026."
+   }
+  ]
  },
  {
   "id": "annex-date",
@@ -123,7 +158,8 @@
     "vid": "00017",
     "seq": 27
    }
-  ]
+  ],
+  "research": []
  },
  {
   "id": "early-presidents",
@@ -139,7 +175,8 @@
     "vid": "00002",
     "seq": 29
    }
-  ]
+  ],
+  "research": []
  },
  {
   "id": "org-keyword-caveat",
@@ -151,6 +188,7 @@
     "vid": "00087",
     "seq": 29
    }
-  ]
+  ],
+  "research": []
  }
 ]

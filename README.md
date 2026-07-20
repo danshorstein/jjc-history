@@ -21,7 +21,7 @@ UFDC's image server and every citation deep-links to the original scan.
 
 | View | What it does |
 |---|---|
-| **Timeline** | 25 curated milestones, 1853–2021, each labeled *yearbook evidence* vs *outside research*, with citation chips |
+| **Timeline** | 37 curated milestones, 1853–2026, each labeled *yearbook evidence* vs *outside research*, with citation chips |
 | **Time Machine** | Pick any of the 87 years: leadership that year, section map, organizations, advertisers, page thumbnails |
 | **People & Threads** | 35,616-name index (search any name/surname); 11 curated documented threads |
 | **Stories** | 7 curated exhibits (the 1958 bombing, the first yearbook, the move to Mandarin…) |
